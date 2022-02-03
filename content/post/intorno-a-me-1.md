@@ -10,20 +10,38 @@ date: 2021-08-31T22:00:00.000+00:00
 hero: "/images/photo-1556005693-00fff02f134c.jpeg"
 
 ---
-**La religione ?**
+**intorno a me è una rubrica che parla del mondo che mi circonda, delle persone che vedo e delle cose che sento**
 
-Sí, proprio così, la religione ha avuto un ruolo imprescindibile nella storia della nostra evoluzione, senza essa probabilmente non saremmo stati in grado di arrivare a governare il pianeta in cui viviamo.
+Testo di [**Susanna Ferri**](https://www.instagram.com/susanna.ferri/)
 
-Inciso
+Lo scrivo perché ho paura di dimenticarlo.
 
-Questo NON è un testo religioso anzi, chi mi conosce sa bene come la penso sulla spiritualità, questo è un testo sull'importanza sociale e politica che quest'ultima ha avuto. **_Non intendo in alcun modo criticare chi pratica una qualsiasi religione_**
+Quando misi il primo piede dentro quella casa mi stupì subito quanto il parquet scricchiolasse ad ogni nostro passo, erano i nostri corpi troppo pesanti o i nostri pensieri?
 
-L'uomo è sempre stato attratto dall'ignoto, fin dalla sua nascita ha avuto il bisogno sfrenato di idolatrare qualcuno, le piante, gli animali, fino ad arrivare ad entità sovrannaturali come Cristo o i vari dèi Pagani. Q**uesto ci ha dato una grande mano: se tutti gli uomini di un'antica tribù di raccoglitori cacciatori era formata al massimo da 100 persone ( questo a causa della memoria degli ominidi primitivi, che arrivavano al massimo ricordare questo numero di individui )**, oggi la chiesa raduna sotto di sé miliardi di discepoli e credenti. Com'è successo che da 100 siamo passati a 1 000 000 000 ? Abbiamo sviluppato una memoria estremamente più ampia ? No, semplicemente non le conosciamo, ma l'unica sicurezza che abbiamo è quella di credere nella stessa cosa di avere uno stesso obiettivo. Questo viene chiamato Costrutto Sociale, migliaia di persone che si immaginano la stessa cosa, rendendola reale nelle loro menti.
+Mi chiesi se volessi un the, risposi di sì, solo dopo capii che, in realtà, era un concentrato di vitamina C, comparabile al Polase.
 
-**![](https://images.unsplash.com/photo-1556005693-00fff02f134c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDZ8fHJlbGlnaW9ufGVufDB8fHx8MTY0MzcyMjQxMg&ixlib=rb-1.2.1&q=80&w=2000)Photo by** [**Lukas Meier**](https://unsplash.com/@lumnezia?utm_source=ghost&utm_medium=referral&utm_campaign=api-credit)
+Nel corridoio, appese al muro c’erano foto non tue, “foto di gente che non conosco e che non rivedrò mai più” così mi dissi.
 
-**L'uomo è l'unico essere vivente che riesce ad avere immaginazioni collettive**, non esistono Dei nel mondo animale, non esistono religioni e non esistono costrutti sociali. Questo fa sì che gli animali non riescano a costituire gruppi estremamente numerosi, ma che anzi spesso preferiscano agire in solitudine.
+Ti scusasti, quasi imbarazzato, del fatto che al posto della lavastoviglie, in cucina, ci fosse la doccia.
 
-Grazie alla religione l'uomo ha avuto la possibilità di credere in qualcosa di maggiore che lo ha portato a collaborare per un unico obiettivo.
+Andai in bagno, le pareti non erano imbiancate di quell’azzurro tenue visto e rivisto, ma appiccicate ad esse: fogli di giornale in lingua cinese.
 
-**Portandolo alla conquista del pianeta terra.**
+Quando entrai nel luminoso soggiorno venni pervasa da un profumo, no, non era deodorante per l’ambiente, ma incenso.
+
+Apristi una porta e mi portai in camera da letto, scoprii subito dopo che due erano le porte e una la finestra.
+
+Ci rollammo una sigaretta e la fumammo sul pianerottolo, mi chiesi tra me e me se avessi mai fumato con le gambe a penzoloni a svariati metri di altezza.
+
+Guardando le luci accese dell’appartamento di fronte mi domandasti se potessi immaginare cosa in quella casa stesse succedendo.
+
+Finii per raccontarti una storia triste di streghe e lupi.
+
+Ridemmo per il mio inglese, così impacciato e il mio tedesco così meccanico.
+
+Mangiammo noci per cena, ancora ne conservo una nella giacca che usai quella sera, “per ricordo” pensai.
+
+Il pavimento smise di scricchiolare quando la musica delle nostre parole si fece sempre più alta.
+
+Credetti per una notte di stare su una nuvola, non quelle scure, che portano pioggia, ma quelle bianche, quelle che assomigliano allo zucchero filato.
+
+> by Susanna Ferri
