@@ -1,7 +1,9 @@
 ---
 hero:
-  heading: Novela, the simplest way to start publishing with Hugo and Forestry.
-  maxWidthPX: 652
+  heading: Luis Beqja è un blog che parla di tutto, dall'informatica alla filosofia
+    passando per l'economia
+  maxWidthPX: "652"
 seo:
-  image: /images/hero-2.jpg
+  image: "/images/hero-2.jpg"
+
 ---
