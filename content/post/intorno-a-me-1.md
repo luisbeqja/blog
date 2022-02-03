@@ -6,7 +6,7 @@ title: Intorno a me - 1
 excerpt: L'uomo è sempre stato attratto dall'ignoto, fin dalla sua nascita ha avuto
   il bisogno sfrenato di idolatrare qualcuno, le piante, gli animali, fino ad arrivare
   ad entità sovrannaturali come Cristo o i vari dèi Pagani.
-date: 2021-08-31T22:00:00.000+00:00
+date: 2021-07-26T00:00:00+02:00
 hero: "/images/photo-1556005693-00fff02f134c.jpeg"
 
 ---
