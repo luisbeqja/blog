@@ -4,9 +4,9 @@ let be = document.getElementsByTagName("BODY")[0];
 initColors();
 
 function initColors(){
-    function initColors() {
+
         if (localStorage.getItem("isLight") === null) {
-            localStorage.setItem("isLight", 'false');
+            localStorage.setItem("isLight", "false");
         }
 
         if (localStorage.getItem("isLight") === 'false') {
@@ -14,8 +14,7 @@ function initColors(){
         } else {
             makeLight();
         }
-    }
-
+    
 
     function makeDark() {
     be.style.setProperty('--primary', "#fff");
@@ -55,4 +54,5 @@ function makeLight(){
     be.style.setProperty('--horizontalRule', "");
     be.style.setProperty('--inputBackground', "");
     be.style.setProperty('--tooltip', "lightgrey");
+}
 }
