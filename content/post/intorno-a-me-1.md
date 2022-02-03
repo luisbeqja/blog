@@ -1,13 +1,12 @@
 ---
 timeToRead: 1
-authors:
-- Luis Beqja
+authors: []
 title: Intorno a me - 1
 excerpt: L'uomo è sempre stato attratto dall'ignoto, fin dalla sua nascita ha avuto
   il bisogno sfrenato di idolatrare qualcuno, le piante, gli animali, fino ad arrivare
   ad entità sovrannaturali come Cristo o i vari dèi Pagani.
 date: 2021-07-26T00:00:00+02:00
-hero: "/images/photo-1556005693-00fff02f134c.jpeg"
+hero: "/images/untitled.png"
 
 ---
 **intorno a me è una rubrica che parla del mondo che mi circonda, delle persone che vedo e delle cose che sento**
