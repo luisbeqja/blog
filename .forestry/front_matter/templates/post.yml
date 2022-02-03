@@ -41,5 +41,6 @@ fields:
   default: []
   label: Authors
 pages:
+- content/post/come-sono-diventato-un-truffatore.md
 - content/post/my-investments.md
 - content/post/perche-la-religione-e-stata-cosi-importante.md
