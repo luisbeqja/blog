@@ -7,7 +7,6 @@ excerpt: "Finalmente quest'anno ho iniziato ad interessarmi alla finanza, ho sol
   grosse somme quindi, anzi. \U0001F972"
 date: 2021-12-30T23:00:00+00:00
 hero: "/images/photo-1624996379697-f01d168b1a52.jpeg"
-draft: true
 
 ---
 > Finalmente quest'anno ho iniziato ad interessarmi alla finanza, ho solo 19 anni e ieri ho ricevuto il mio primo stipendio di 1000 miseri euro, non aspettatevi grosse somme quindi, anzi. 🥲
