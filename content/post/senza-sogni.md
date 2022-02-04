@@ -3,27 +3,23 @@ timeToRead: 1
 authors:
 - Luis Beqja
 title: Senza sogni
-excerpt: L'uomo è sempre stato attratto dall'ignoto, fin dalla sua nascita ha avuto
-  il bisogno sfrenato di idolatrare qualcuno, le piante, gli animali, fino ad arrivare
-  ad entità sovrannaturali come Cristo o i vari dèi Pagani.
-date: 2021-08-31T22:00:00.000+00:00
-hero: "/images/photo-1556005693-00fff02f134c.jpeg"
+excerpt: 'Vedo intorno a me, gente che non sa cosa fare della propria vita, capisco
+  che non sia facile sapere cosa fare del propio futuro ma so anche che senza cercare
+  di dare un senso ai propri giorni si spreca solo tempo prezioso. '
+date: 2022-02-01T00:00:00+01:00
+hero: "/images/yukio.png"
 
 ---
-**La religione ?**
+# Senza sogni
 
-Sí, proprio così, la religione ha avuto un ruolo imprescindibile nella storia della nostra evoluzione, senza essa probabilmente non saremmo stati in grado di arrivare a governare il pianeta in cui viviamo.
+Vedo intorno a me, gente che non sa cosa fare della propria vita, capisco che non sia facile sapere cosa fare del propio futuro ma so anche che senza cercare di dare un senso ai propri giorni si spreca solo tempo prezioso. Gente che studia per studiare, lavora per lavorare, fa quello che non vorrebbe fare solo perchè gli viene imposto. Non capisco i miei coetanei che come ambizione hanno quella di lavorare in fabbrica tutta la vita, prendere 1500€ e non potersi pagare una vacanza in futuro. E non parlo solo di Lavoro ma di dare un senso, di cercare qualcosa per cui passare le proprie giornate una passione che ci faccia svegliare. Non critico il fatto che in questo momento stiano facendo questo, io sono il primo a prendere 1400€ al mese, critico il fatto che si vedano fare quello tutta la vita, che la loro ambizione sia il posto fisso in fabbrica e che siano felici ( momentaneamente ) di questa vista.
 
-Inciso
+![](/images/yukio.png)
 
-Questo NON è un testo religioso anzi, chi mi conosce sa bene come la penso sulla spiritualità, questo è un testo sull'importanza sociale e politica che quest'ultima ha avuto. **_Non intendo in alcun modo criticare chi pratica una qualsiasi religione_**
+Yukio Mishima ( in Sole e acciaio ) dice che la vita è come una casa con un grande giardino, la casa è il nostro essere: come noi nasciamo la nostra personalità e le nostre emozioni. Il giardino invece è la nostra vita, il nostro corpo e le scelte che facciamo. Mentre cambiare la struttura in mattoni e cemento di una casa è estremamente difficile, è il giardino ciò che ci fa apparire al mondo, ciò che determina il resto della nostra vita. Sole e acciaio, sono come noi decidiamo di vivere la nostra vita, possiamo lottare per migliorarla e cambiarla, cosi come con i raggi del sole e l’acciaio del aratro lavorano la terra del nostro giardino.
 
-L'uomo è sempre stato attratto dall'ignoto, fin dalla sua nascita ha avuto il bisogno sfrenato di idolatrare qualcuno, le piante, gli animali, fino ad arrivare ad entità sovrannaturali come Cristo o i vari dèi Pagani. Q**uesto ci ha dato una grande mano: se tutti gli uomini di un'antica tribù di raccoglitori cacciatori era formata al massimo da 100 persone ( questo a causa della memoria degli ominidi primitivi, che arrivavano al massimo ricordare questo numero di individui )**, oggi la chiesa raduna sotto di sé miliardi di discepoli e credenti. Com'è successo che da 100 siamo passati a 1 000 000 000 ? Abbiamo sviluppato una memoria estremamente più ampia ? No, semplicemente non le conosciamo, ma l'unica sicurezza che abbiamo è quella di credere nella stessa cosa di avere uno stesso obiettivo. Questo viene chiamato Costrutto Sociale, migliaia di persone che si immaginano la stessa cosa, rendendola reale nelle loro menti.
+O possiamo decidere di lasciare che la natura faccia il suo corso, di far crescere le sterpaglie e annebbiare una casa che potrà anche essere bellissima, ma con un giardino mal curato verrà visto sempre come una cosa abbandonata a se stessa.
 
-**![](https://images.unsplash.com/photo-1556005693-00fff02f134c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDZ8fHJlbGlnaW9ufGVufDB8fHx8MTY0MzcyMjQxMg&ixlib=rb-1.2.1&q=80&w=2000)Photo by** [**Lukas Meier**](https://unsplash.com/@lumnezia?utm_source=ghost&utm_medium=referral&utm_campaign=api-credit)
+Abbandonare la nostra vita al suo corso, senza avere sogni degni di essere inseguiti, equivale ad avere il sole e l’aratro per piantare una singola rosa in mare di sterpaglia.
 
-**L'uomo è l'unico essere vivente che riesce ad avere immaginazioni collettive**, non esistono Dei nel mondo animale, non esistono religioni e non esistono costrutti sociali. Questo fa sì che gli animali non riescano a costituire gruppi estremamente numerosi, ma che anzi spesso preferiscano agire in solitudine.
-
-Grazie alla religione l'uomo ha avuto la possibilità di credere in qualcosa di maggiore che lo ha portato a collaborare per un unico obiettivo.
-
-**Portandolo alla conquista del pianeta terra.**
+> by Luis Beqja
