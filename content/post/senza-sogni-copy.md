@@ -2,7 +2,7 @@
 timeToRead: 1
 authors:
 - Luis Beqja
-title: Senza sogni-(copy)
+title: Cristiani = Complottisti
 excerpt: 'Vedo intorno a me, gente che non sa cosa fare della propria vita, capisco
   che non sia facile sapere cosa fare del propio futuro ma so anche che senza cercare
   di dare un senso ai propri giorni si spreca solo tempo prezioso. '
@@ -10,16 +10,30 @@ date: 2022-02-01T00:00:00.000+01:00
 hero: "/images/yukio.png"
 
 ---
-# Senza sogni
+CRISTIANESIMO.
 
-Vedo intorno a me, gente che non sa cosa fare della propria vita, capisco che non sia facile sapere cosa fare del propio futuro ma so anche che senza cercare di dare un senso ai propri giorni si spreca solo tempo prezioso. Gente che studia per studiare, lavora per lavorare, fa quello che non vorrebbe fare solo perchè gli viene imposto. Non capisco i miei coetanei che come ambizione hanno quella di lavorare in fabbrica tutta la vita, prendere 1500€ e non potersi pagare una vacanza in futuro. E non parlo solo di Lavoro ma di dare un senso, di cercare qualcosa per cui passare le proprie giornate una passione che ci faccia svegliare. Non critico il fatto che in questo momento stiano facendo questo, io sono il primo a prendere 1400€ al mese, critico il fatto che si vedano fare quello tutta la vita, che la loro ambizione sia il posto fisso in fabbrica e che siano felici ( momentaneamente ) di questa vista.
+Ho fatto un vecchio post sul cristianesimo...dove lo “elogiavo” come strumento culturale che STORICAMENTE ci ha permesso di creare una civiltà unita.Ho fatto un vecchio post sul cristianesimo...dove lo “elogiavo” come strumento culturale che STORICAMENTE ci ha permesso di creare una civiltà unita.Ho fatto un vecchio post sul cristianesimo...dove lo “elogiavo” come strumento culturale che STORICAMENTE ci ha permesso di creare una civiltà unita.
 
-![](/images/yukio.png)
+Ho fatto un vecchio post sul cristianesimo...dove lo “elogiavo” come strumento culturale che STORICAMENTE ci ha permesso di creare una civiltà unita.
 
-Yukio Mishima ( in Sole e acciaio ) dice che la vita è come una casa con un grande giardino, la casa è il nostro essere: come noi nasciamo la nostra personalità e le nostre emozioni. Il giardino invece è la nostra vita, il nostro corpo e le scelte che facciamo. Mentre cambiare la struttura in mattoni e cemento di una casa è estremamente difficile, è il giardino ciò che ci fa apparire al mondo, ciò che determina il resto della nostra vita. Sole e acciaio, sono come noi decidiamo di vivere la nostra vita, possiamo lottare per migliorarla e cambiarla, cosi come con i raggi del sole e l’acciaio del aratro lavorano la terra del nostro giardino.
+Ma dei Cristiani invece...i nostri cari amici che che si inginocchiano davanti al nulla per chiedere cose a qualcuno che ha la stessa valenza del mio gabinetto ?
 
-O possiamo decidere di lasciare che la natura faccia il suo corso, di far crescere le sterpaglie e annebbiare una casa che potrà anche essere bellissima, ma con un giardino mal curato verrà visto sempre come una cosa abbandonata a se stessa.
+![https://luis-beqja.ghost.io/content/images/2022/01/respect.jpeg](https://luis-beqja.ghost.io/content/images/2022/01/respect.jpeg)
 
-Abbandonare la nostra vita al suo corso, senza avere sogni degni di essere inseguiti, equivale ad avere il sole e l’aratro per piantare una singola rosa in mare di sterpaglia.
+> C’è questa idea diffusa che la religione andrebbe rispettata a prescindere. La ritengo un’idea sbagliata e pericolosa. Io non rispetto la religione. Ritengo la religione una sciagura per l’umanità. Nei paesi civili, viene spesso usata come strumento per tentare di negare i diritti alle persone, in quelli meno civili viene usata come pretesto per ammazzare la gente. Quelli che pretendono rispetto per la (propria…) religione, spesso sono gli stessi che la usano per negare il rispetto della dignità altrui.
 
-> by Luis Beqja
+> Ritengo le credenze religiose decisamente assurde e deve essere lecito trattarle come tali. Non capisco perché si può ironizzare su chi crede alle scie chimiche, ma non su chi crede alla Madonna che sale in cielo.
+
+> Le idee religiose vanno trattate come tutte le altre idee: devono poter essere criticate, ridicolizzate, fatte oggetto di satira. Se le si ritiene valide, invece di offendersi per le critiche le si sostenga con degli argomenti. Altrimenti, viene da pensare che la pretesa di negare il diritto di critica sia un modo per mascherare l’assenza di argomentazioni…
+
+> [https://ioateo.wordpress.com/2016/01/25/non-rispetto-la-religione/](https://ioateo.wordpress.com/2016/01/25/non-rispetto-la-religione/ "https://ioateo.wordpress.com/2016/01/25/non-rispetto-la-religione/")
+
+Perchè quando oggi si parla di no vax si dice che stanno facendo un danno alla società e non solo a se stessi ? Mi direte tutti che è ovvio, perchè non vaccinarsi mette a rischio di contagio, di lockdown ecc a tutto il paese. E sono completamente daccordo, ma lo stesso pensiero dovrebbe essere legato anche alla chiesa Cattolica ( che per quanto se ne voglia è il massimo collegamento tra i cristiani e e Dio, è la stessa bibbia a dire che le parole della chiesa sono il volere di Dio. Se non si crede nella chiesa non si è Cristiani ) essere cristiani, significa negare diritti a tante minoranze: Omosessuali, atei, professanti di altre religioni, donne che vogliono abortire, divorziati e ne potrei citare minimo un altra decina. Con questi pretesti e questi vincoli come si definire la Chiesa Cattolica un protettore dei diritti umani quando danneggia la civiltà al pari dei noVax.
+
+![https://luis-beqja.ghost.io/content/images/2022/01/download-1.jpeg](https://luis-beqja.ghost.io/content/images/2022/01/download-1.jpeg)
+
+Esiste una specie di alone di protezionismo che impedisce in ogni modo di parlare pubblicamente MALE. Non possono essere criticati o anche solo messi in discussione in italia soprattutto è quasi difficile dichirarsi totalemente atei: “no io non sono Cattolico, non appogio quello che dice chiesa...ma credo in Dio” frase patetica. Equivale a dire “sono vegetariano perche non mangio la carne del MC ma solo quella che mi faccio in casa”
+
+Dio è letteralmente un invenzione della chiesa.
+
+Pregate pure il mio gabinetto quanto volete, non mi da fastidio. Ma non limitate la liberta degli altri pleas...sembrate quasi noMinoranx
