@@ -1,12 +1,13 @@
 ---
 timeToRead: 1
-authors: []
+authors:
+- Susanna Ferri
 title: Intorno a me - 1
-excerpt: L'uomo è sempre stato attratto dall'ignoto, fin dalla sua nascita ha avuto
-  il bisogno sfrenato di idolatrare qualcuno, le piante, gli animali, fino ad arrivare
-  ad entità sovrannaturali come Cristo o i vari dèi Pagani.
-date: 2021-07-26T00:00:00+02:00
-hero: "/images/untitled.png"
+excerpt: Lo scrivo perché ho paura di dimenticarlo.  Quando misi il primo piede dentro
+  quella casa mi stupì subito quanto il parquet scricchiolasse ad ogni nostro passo,
+  erano i nostri corpi troppo pesanti o i nostri pensieri?
+date: 2021-07-26T00:00:00.000+02:00
+hero: "/images/suanna.png"
 
 ---
 **intorno a me è una rubrica che parla del mondo che mi circonda, delle persone che vedo e delle cose che sento**
