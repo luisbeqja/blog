@@ -3,11 +3,11 @@ timeToRead: 1
 authors:
 - Luis Beqja
 title: Cristiani = Complottisti
-excerpt: 'Vedo intorno a me, gente che non sa cosa fare della propria vita, capisco
-  che non sia facile sapere cosa fare del propio futuro ma so anche che senza cercare
-  di dare un senso ai propri giorni si spreca solo tempo prezioso. '
-date: 2022-02-01T00:00:00.000+01:00
-hero: "/images/yukio.png"
+excerpt: 'C’è questa idea diffusa che la religione andrebbe rispettata a prescindere.
+  La ritengo un’idea sbagliata e pericolosa. Io non rispetto la religione. Ritengo
+  la religione una sciagura per l’umanità. '
+date: 2022-02-02T00:00:00+01:00
+hero: "/images/adrian-dascal-4baom7usuqy-unsplash.jpeg"
 
 ---
 CRISTIANESIMO.
