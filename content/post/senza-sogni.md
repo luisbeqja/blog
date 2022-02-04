@@ -1,12 +1,12 @@
 ---
-timeToRead: 1
+timeToRead: 2
 authors:
 - Luis Beqja
 title: Senza sogni
 excerpt: 'Vedo intorno a me, gente che non sa cosa fare della propria vita, capisco
   che non sia facile sapere cosa fare del propio futuro ma so anche che senza cercare
   di dare un senso ai propri giorni si spreca solo tempo prezioso. '
-date: 2022-02-01T00:00:00+01:00
+date: 2022-02-01T00:00:00.000+01:00
 hero: "/images/yukio.png"
 
 ---
