@@ -1,25 +1,50 @@
 ---
-timeToRead: 2
+timeToRead: 3
 authors:
 - Luis Beqja
 title: 'Ho investito nella marijuana ? '
-excerpt: 'Vedo intorno a me, gente che non sa cosa fare della propria vita, capisco
-  che non sia facile sapere cosa fare del propio futuro ma so anche che senza cercare
-  di dare un senso ai propri giorni si spreca solo tempo prezioso. '
-date: 2022-02-01T00:00:00.000+01:00
-hero: "/images/yukio.png"
+excerpt: E' il nome dell'ultima azienda su cui ho investito, lavora nel mercato della
+  canapa ( cannabis ).
+date: 2022-02-06T00:00:00+01:00
+hero: "/images/dsc02731-1200x800.jpeg"
 
 ---
-# Senza sogni
+## _innovative industrial properties_
 
-Vedo intorno a me, gente che non sa cosa fare della propria vita, capisco che non sia facile sapere cosa fare del propio futuro ma so anche che senza cercare di dare un senso ai propri giorni si spreca solo tempo prezioso. Gente che studia per studiare, lavora per lavorare, fa quello che non vorrebbe fare solo perchè gli viene imposto. Non capisco i miei coetanei che come ambizione hanno quella di lavorare in fabbrica tutta la vita, prendere 1500€ e non potersi pagare una vacanza in futuro. E non parlo solo di Lavoro ma di dare un senso, di cercare qualcosa per cui passare le proprie giornate una passione che ci faccia svegliare. Non critico il fatto che in questo momento stiano facendo questo, io sono il primo a prendere 1400€ al mese, critico il fatto che si vedano fare quello tutta la vita, che la loro ambizione sia il posto fisso in fabbrica e che siano felici ( momentaneamente ) di questa vista.
+E' il nome dell'ultima azienda su cui ho investito, lavora nel mercato della canapa ( cannabis ).
 
-![](/images/yukio.png)
+Ho deciso di investirci per due ragioni principali: la prima è che dato il crollo dei mercati avvenuto recentemente molte delle aziende cha avevo sottocchio sono scese estremamente di prezzo ( tra cui [IIPR](https://www.google.com/search?sxsrf=APq-WBs1jgeBIljJCaD70dyVMjqSos11sg:1644164660304&q=NYSE:+IIPR&stick=H4sIAAAAAAAAAONgecRowS3w8sc9YSn9SWtOXmPU5OIKzsgvd80rySypFJLmYoOyBKX4uXj10_UNDZOLiwzKygyNeBaxcvlFBrtaKXh6BgQBAFnylY9KAAAA&sa=X&ved=2ahUKEwj23J3Uvuv1AhWx57sIHXBTAd4QsRV6BAgwEAM&cshid=1644164884384848) ). La seconda è che credo fortemente nel mercate della cannabis a livello ricreativo ( oltre che a livello medico e tessile ) credo che sia un mercato messo in ombra dalla Pandemia ma che non abbia assolutamente cambiato le basi su cui si poggia.
 
-Yukio Mishima ( in Sole e acciaio ) dice che la vita è come una casa con un grande giardino, la casa è il nostro essere: come noi nasciamo la nostra personalità e le nostre emozioni. Il giardino invece è la nostra vita, il nostro corpo e le scelte che facciamo. Mentre cambiare la struttura in mattoni e cemento di una casa è estremamente difficile, è il giardino ciò che ci fa apparire al mondo, ciò che determina il resto della nostra vita. Sole e acciaio, sono come noi decidiamo di vivere la nostra vita, possiamo lottare per migliorarla e cambiarla, cosi come con i raggi del sole e l’acciaio del aratro lavorano la terra del nostro giardino.
+![](/images/screenshot-2022-02-06-at-17-30-55.png)
 
-O possiamo decidere di lasciare che la natura faccia il suo corso, di far crescere le sterpaglie e annebbiare una casa che potrà anche essere bellissima, ma con un giardino mal curato verrà visto sempre come una cosa abbandonata a se stessa.
+Diamo per assodato quindi che il mercato della cannabis si espanderà in futuro ( questa è la mia scommessa ), quali sono le ipotesi per un investitore che vuole entrare oggi ?
 
-Abbandonare la nostra vita al suo corso, senza avere sogni degni di essere inseguiti, equivale ad avere il sole e l’aratro per piantare una singola rosa in mare di sterpaglia.
+### Ipotesi 1
 
-> by Luis Beqja
+La cannabis potrebbe diventare un prodotto sostituibile, come il riso: puoi sostituire il riso pressochè con qualsiasi marca, non cambia la sostanza di esso, difficilmente ci si affeziona ad una marca di riso rispetto ad un altra. Qui l'investimento su una singola azienda produttrice di canapa non porterebbe a grandi guadagna, poichè i competitor sono tanti e le fette di mercato sono molto piccole.
+
+### Ipotesi 2
+
+La marijuana essendo un prodotto che viene fumato, può essere paragonato al tabacco.
+
+Quello del tabacco invece è un mercato estremamente singolare, i consumatori sono legati indissolubilmente alla marca di sigarette che fumano. Questo porta a un mercato dominato da poche aziende con utili e guadagni mostruosi. Individuare l'azienda su qui puntare in un mercato ancora cosi acerbo e giovane potrebbe portare a grandi guadagni in futuro a anche a tanti rischi.
+
+### Ipotesi 3
+
+Dando per scontato che la cannabis venga anche condivisa, quindi fumata in compagnia possiamo paragonarla al Alcol.
+
+In questo caso abbiamo un misto tra la prima e la seconda ipotesi, ti affezioni a delle marche specifiche, ma non ti limiti ad esse.
+
+![](/images/screenshot-2022-02-06-at-17-47-21.png "Aziende di tabacco")
+
+## Come esporci quindi ?
+
+Investire su una singola azienda produttrice è forse troppo rischioso ad oggi, non sappiamo come si evolverà il mercato e nemmeno se ci saranno singole aziende a dominarlo. L'altra possibilità è quella di un ETF che sicuramente ci diminuisce il rischio, ma anche qui non ho trovato un Etf che mi convincesse al 100%.
+
+Ecco da dove nasce l'idea di investire IIPR.
+
+###### _innovative industrial properties_ opera nel mercato edile della cannabis.
+
+Il suo business è quello di comprare terreni e affittarli a coltivatori di canapa, fornisce i coltivatori di tutto il necessario per avviare una piantagione, e in cambio riceve il compenso  del affitto.
+
+![](/images/screenshot-2022-02-06-at-18-23-09.png)
