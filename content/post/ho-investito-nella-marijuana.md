@@ -5,7 +5,7 @@ authors:
 title: 'Ho investito nella marijuana ? '
 excerpt: E' il nome dell'ultima azienda su cui ho investito, lavora nel mercato della
   canapa ( cannabis ).
-date: 2022-02-06T00:00:00+01:00
+date: 2022-02-06T00:00:00.000+01:00
 hero: "/images/dsc02731-1200x800.jpeg"
 
 ---
@@ -27,7 +27,7 @@ La cannabis potrebbe diventare un prodotto sostituibile, come il riso: puoi sost
 
 La marijuana essendo un prodotto che viene fumato, può essere paragonato al tabacco.
 
-Quello del tabacco invece è un mercato estremamente singolare, i consumatori sono legati indissolubilmente alla marca di sigarette che fumano. Questo porta a un mercato dominato da poche aziende con utili e guadagni mostruosi. Individuare l'azienda su qui puntare in un mercato ancora cosi acerbo e giovane potrebbe portare a grandi guadagni in futuro a anche a tanti rischi.
+Quello del tabacco invece è un mercato estremamente singolare, i consumatori sono legati indissolubilmente alla marca di sigarette che fumano. Questo porta a un mercato dominato da poche aziende con utili e guadagni mostruosi. Individuare l'azienda su cui puntare in un mercato ancora cosi acerbo e giovane potrebbe portare a grandi guadagni in futuro a anche a tanti rischi.
 
 ### Ipotesi 3
 
