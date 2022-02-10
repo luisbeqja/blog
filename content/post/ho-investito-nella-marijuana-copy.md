@@ -5,7 +5,7 @@ authors:
 title: "...e poi? ...perché proprio filosofia?"
 excerpt: E' il nome dell'ultima azienda su cui ho investito, lavora nel mercato della
   canapa ( cannabis ).
-date: 2022-02-10T22:00:00+01:00
+date: 2022-02-09T22:00:00+01:00
 hero: "/images/a-cosa-serve-la-filosofia-blog-facebook-1080x628.png"
 
 ---
