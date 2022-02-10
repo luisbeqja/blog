@@ -41,6 +41,7 @@ fields:
   default: []
   label: Authors
 pages:
+- content/post/...e-poi...perche-proprio-filosofia.md
 - content/post/come-sono-diventato-un-truffatore.md
 - content/post/ho-investito-nella-marijuana.md
 - content/post/intorno-a-me-1.md
