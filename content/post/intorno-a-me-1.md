@@ -6,7 +6,7 @@ title: Intorno a me - 1
 excerpt: Lo scrivo perché ho paura di dimenticarlo.  Quando misi il primo piede dentro
   quella casa mi stupì subito quanto il parquet scricchiolasse ad ogni nostro passo,
   erano i nostri corpi troppo pesanti o i nostri pensieri?
-date: 2022-07-06T00:00:00+02:00
+date: 2022-01-03T00:00:00+01:00
 hero: "/images/suanna.png"
 
 ---
