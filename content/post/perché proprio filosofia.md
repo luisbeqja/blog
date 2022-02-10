@@ -11,7 +11,7 @@ date: 2022-02-09T22:00:00+01:00
 hero: "/images/a-cosa-serve-la-filosofia-blog-facebook-1080x628.png"
 
 ---
- Dopo cinque anni di elementari, tre di medie e altri cinque di superiori, uno studente italiano si ritrova a dover fare i conti con il proprio futuro.  
+Dopo cinque anni di elementari, tre di medie e altri cinque di superiori, uno studente italiano si ritrova a dover fare i conti con il proprio futuro.  
 Una parte dei ragazzi intraprende fin da subito la carriera lavorativa e l’altra parte invece decide di proseguire il proprio percorso di studi all’università.
 
 Già scegliere di continuare a studiare è un prova di coraggio notevole, ma chi addirittura sceglie una facoltà inusuale, ha deciso di complicarsi ulteriormente l’esistenza. Personalmente, dato che nella vita non bisogna conformarsi alla massa, ha deciso di iscrivermi alla facoltà di filosofia.
@@ -42,14 +42,11 @@ Ovviamente ho presente i possibili sbocchi professionali di questa facoltà (sp
 Questo è anche quello che mi ha attratto, la possibilità di capire e designare strada facendo il mio futuro.  
 Per tutti gli scettici però, adesso fornirò anche una lista dei possibili sbocchi professionali relativi alla laurea in filosofia, indicati proprio dalla mia università:
 
-* 
-  * Editoria tradizionale e multimediale
-* 
-  * Assistenza nella gestione di compiti lavorativi in cui siano utili competenze derivanti
+* Editoria tradizionale e multimediale
+* Assistenza nella gestione di compiti lavorativi in cui siano utili competenze derivanti
 
   da sapere intorno alla comunicazione, le scienze cognitive, la linguistica, i sistemi informatici e di intelligenza artificiale, l’educazione, la psicologia.
-
-\- Compiti di media responsabilità nella pubblica amministrazione e in enti pubblici e privati (case editrici, quotidiani, centri culturali, centri studi, fondazioni e in imprese pubbliche e private in ambiti quali le relazioni pubbliche, la comunicazione, il turismo, la pubblicità, la formazione del personale, marketing e pubblicità “creativa”, promozione culturale e vari ambiti professionali della formazione).
+*  Compiti di media responsabilità nella pubblica amministrazione e in enti pubblici e privati (case editrici, quotidiani, centri culturali, centri studi, fondazioni e in imprese pubbliche e private in ambiti quali le relazioni pubbliche, la comunicazione, il turismo, la pubblicità, la formazione del personale, marketing e pubblicità “creativa”, promozione culturale e vari ambiti professionali della formazione).
 
 Tutto questo a dimostrazione del fatto che non si apprendono delle nozioni specialistiche come a medicina; d’altronde ce lo ricorda anche Schopenhauer: “Il filosofo non deve mai dimenticare che la sua è un'arte e non una scienza.”  
 Tuttavia formi la tua persona, sviluppando le tue potenzialità e le tue capacità logiche e deduttive.
