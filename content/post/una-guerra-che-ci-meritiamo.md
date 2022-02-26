@@ -44,7 +44,7 @@ Non sono questi i punti che voglio affrontare oggi. Il punto di questo articolo 
 
 Come abbiamo permesso che questi crimini **continuassero a rimanere impuniti,** come abbiamo fatto a renderci così tanto dipendenti dal gas russo da non poterne fare a meno,
 
-**COME ABBIAMO FATTO A SOSTENERE POLITICI CHE LODAVANO PUTIN COME GRANDE UOMO E POLITO.**
+**COME ABBIAMO FATTO A SOSTENERE POLITICI CHE LODAVANO PUTIN COME GRANDE UOMO.**
 
 ***
 
@@ -56,7 +56,7 @@ No cari miei, q**uesta guerra ce la siamo costruita noi**…e la russia ci aveva
 
 ***
 
-### Tu conosci i motivi di questo conflitto ? 
+### Tu conosci i motivi di questo conflitto ?
 
 ###### Se si complimenti, sei uno dei pochi
 
@@ -116,7 +116,6 @@ dividiamo in ipotesi quello che potrebbe succedere.
 
 «uno dei pochi leader che ha le idee chiare su **una società positiva, ordinata, pulita e laboriosa** per i prossimi cinquant’anni»
 
-  
 2018, a Mosca: «**Mi sento più a casa qui che in Europa**».
 
 «Putin difende lo **spazio vitale della Russia** di fronte alla manovre della Nato»
@@ -127,7 +126,7 @@ immonda» la «propaganda» degli Stati Uniti e dice: «Le ragioni non stanno af
 
 Queste sono solo alcune delle frasi dette da **politici ITALIANI** negli anni precedenti…**siamo stati noi a votare questi personaggi, siamo stati noi a non aprire gli occhi davanti ad uno stato che commetteva atrocità una dopo l'altra**…e oggi vedere voi che mai avete condannato la Russia, a voi che mai vi siete interessati a cosa stava succedendo nel Donbass, **A VOI che nemmeno sapete chi è Aleksej Naval'nyj**…a voi altri vedervi mettere storie su instagram condannando questa guerra che ormai è inesorabilmente avviata…**vi posso dire solo che questa guerra è anche colpa vostra.**
 
-**  
+\**  
 ![](/images/165133700-bf6aec0e-500a-4cd0-81a2-be7134df49f2.jpg)**
 
-ANDRA TUTTO BENE. 
+ANDRA TUTTO BENE.
