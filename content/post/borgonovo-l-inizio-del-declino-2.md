@@ -25,7 +25,7 @@ hero: "/images/sloiw9wbux1u3j32mhxdisjqb107iwhlcplrbwrn.jpeg"
 
 ![](/images/whatsapp-image-2022-02-28-at-12-55-15.jpeg)
 
-I negozi che prima popolavano Via Roma stano piano **piano chiudendo tutti.**..e non è colpa della pandemia perchè questo fenomeno è ormai da anni che va a vanti.
+I negozi che prima popolavano Via Roma stano piano **piano chiudendo tutti.**..e non è colpa della pandemia perché questo fenomeno è ormai da anni che va a vanti.
 
 ### I dati cosa ci dicono ?
 
@@ -33,11 +33,11 @@ A Borgonovo il 30 dicembre 2020 eravamo in **7.989.**
 
 Il 30 dicembre del 2002 eravamo circa **6.879**
 
-**La crescita in circa 20 anni è stata di +-1000 persone**...può sembra un numero abbastanza inutile che non ci dice tanto visto così, ma che in realta ci spiega esattamnete quello che sta succendento al nostro comune. 1000 persone sono molto sotto la media italiana...la gente non vine e a vivere a Borgonovo anzi...se può o meglio, appena può se ne va.
+**La crescita in circa 20 anni è stata di +-1000 persone**...può sembra un numero abbastanza inutile che non ci dice tanto visto così, ma che in realtà ci spiega esattamente quello che sta succedendo al nostro comune. 1000 persone sono molto sotto la media italiana...la gente non vine e a vivere a Borgonovo anzi...se può o meglio, appena può se ne va.
 
 ![](/images/screenshot-2022-02-22-at-09-02-59.png)
 
-Ma anche questa piccola speranza di cerescira data dalle 1000 persone in più dal 2002 ad oggi...svanisce totalmente se si va ad analizzare la crescita della popolazione straniera nel comune dal 2000 al 2020.
+Ma anche questa piccola speranza di crescita data dalle 1000 persone in più dal 2002 ad oggi...svanisce totalmente se si va ad analizzare la crescita della popolazione straniera nel comune dal 2000 al 2020.
 
 Nel 2003 la popolazione straniera a borgonovo era 445 persone.
 
@@ -47,7 +47,7 @@ nel 2021 siamo arrivati a 1575, **con un aumento totale di circa 1000 persone..n
 
 Incredibile ma vero...la popolazione Borgonovese dal 2002 al 2021 è cresciuta grazie soltanto ai cittadini stranieri, e attenzione, non stiamo dicendo che la crescita della polietricità di un paese sia una cosa negativa, anzi.
 
-Il problema sta che sia cresciuta solo essa, una crescita omogena di tante culture e cittadinanze sarebbe una cosa fantastica, il problema è che a crescere è solo una parte di popolazione quella straniere...che se non gestita adeguatamente trasforma tutti i vantaggi della polietricita in problemi.
+Il problema sta che sia cresciuta solo essa, una crescita omogenea di tante culture e cittadinanze sarebbe una cosa fantastica, il problema è che a crescere è solo una parte di popolazione quella straniere...che se non gestita adeguatamente trasforma tutti i vantaggi della polietricita in problemi.
 
 Chi cresce a borgonovo se ne va, questo è il problema.
 
@@ -57,8 +57,8 @@ Ps.
 
 _Questo è un articolo non scritto da me in prima persona, come tanti altri in questo blog._
 
-Questa piattaforma nasce dal idea di dare a tutti la possibilita di scrivere senza dover per forza essere giornalisti o scrittori, nasce per dare voce ai nessuno._
+Questa piattaforma nasce dal idea di dare a tutti la possibilità di scrivere senza dover per forza essere giornalisti o scrittori, nasce per dare voce ai nessuno._
 
-_Gli articoli ANONIMI sono scritti per rimanere tali, se ci fossere probelmi con qualsiasi articolo, ne risponodo io personalmente...perchè tutto quello che viene postato implica la piena adesione da parte MIA._
+_Gli articoli ANONIMI sono scritti per rimanere tali, se ci fossero problemi con qualsiasi articolo, ne rispondo io personalmente...perchè tutto quello che viene postato implica la piena adesione da parte MIA._
 
 **Se sentite il bisogno di una replica, sapete dove contattarmi.**
