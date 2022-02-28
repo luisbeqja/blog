@@ -57,7 +57,7 @@ Ps.
 
 _Questo è un articolo non scritto da me in prima persona, come tanti altri in questo blog._
 
-Q_uesta piattaforma nasce dal idea di dare a tutti la possibilita di scrivere senza dover per forza essere giornalisti o scrittori, nasce per dare voce ai nessuno._
+Questa piattaforma nasce dal idea di dare a tutti la possibilita di scrivere senza dover per forza essere giornalisti o scrittori, nasce per dare voce ai nessuno._
 
 _Gli articoli ANONIMI sono scritti per rimanere tali, se ci fossere probelmi con qualsiasi articolo, ne risponodo io personalmente...perchè tutto quello che viene postato implica la piena adesione da parte MIA._
 
