@@ -19,11 +19,15 @@ hero: "/images/sloiw9wbux1u3j32mhxdisjqb107iwhlcplrbwrn.jpeg"
 
 **Passeggiare per il centro di Borgonovo sta diventando sempre meno piacevole...**
 
-![](/images/whatsapp-image-2022-02-22-at-18-55-23-1.jpeg)![](/images/whatsapp-image-2022-02-22-at-18-55-23.jpeg)![](/images/whatsapp-image-2022-02-22-at-18-55-24.jpeg)
+![](/images/whatsapp-image-2022-02-22-at-18-55-23.jpeg)
+
+![](/images/whatsapp-image-2022-02-22-at-18-55-23-1.jpeg)
+
+![](/images/whatsapp-image-2022-02-28-at-12-55-15.jpeg)
 
 I negozi che prima popolavano Via Roma stano piano **piano chiudendo tutti.**..e non è colpa della pandemia perchè questo fenomeno è ormai da anni che va a vanti.
 
-### I dati cosa ci dicono ? 
+### I dati cosa ci dicono ?
 
 A Borgonovo il 30 dicembre 2020 eravamo in **7.989.**
 
