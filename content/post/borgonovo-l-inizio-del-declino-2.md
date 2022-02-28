@@ -9,18 +9,14 @@ date: 2022-02-21T09:00:00.000+01:00
 hero: "/images/sloiw9wbux1u3j32mhxdisjqb107iwhlcplrbwrn.jpeg"
 
 ---
-**Parte 1:**
+#### **Concretamente quali sono i problemi che a Borgonovo continuano ad aumentare:**
 
-Ed eccoci qua, come al solito, a fare i conti con tante belle parole e fatti quasi inesistenti.
+1) Sporcizia
 
-Ma d’altronde ci siamo abituati no? Siamo pronti mentalmente alla delusione, al fallimento…forse condizionati anche dagli ultimi tempi, che ne dite? 
+2) Negozi chiusi
 
-In particolare vorremmo fare il punto della situazione su come un paese, se trascurato, possa cambiare completamente volto, in poco più di 5 anni…
+1) Nessuna vita notturna e diurna
 
-Sicurezza, pulizia, efficienza…solo un lontano ricordo.
+**Passeggiare per il centro di Borgonovo sta diventando sempre meno piacevole...**
 
-Vediamo crescere tra le strade sempre più disordine, sporcizia e irrequietudine tra le persone. 
-
-Non lo accettiamo, non stiamo zitti, ma soprattutto non ci facciamo prendere in giro dai soliti chiacchieroni. 
-
-\~ spazio ascolto di qua, riunione di la, bla bla bla \~ meno parole, moooolte meno parole e più fatti concreti grazie, il paese ha bisogno di questo.
+![](/images/whatsapp-image-2022-02-22-at-18-55-23-1.jpeg)![](/images/whatsapp-image-2022-02-22-at-18-55-23.jpeg)
