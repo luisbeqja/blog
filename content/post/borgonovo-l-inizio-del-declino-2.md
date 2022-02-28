@@ -47,7 +47,7 @@ nel 2021 siamo arrivati a 1575, **con un aumento totale di circa 1000 persone..n
 
 Incredibile ma vero...la popolazione Borgonovese dal 2002 al 2021 è cresciuta grazie soltanto ai cittadini stranieri, e attenzione, non stiamo dicendo che la crescita della polietricità di un paese sia una cosa negativa, anzi.
 
-Il problema sta che sia cresciuta solo essa, una crescita omogenea di tante culture e cittadinanze sarebbe una cosa fantastica, il problema è che a crescere è solo una parte di popolazione quella straniere...che se non gestita adeguatamente trasforma tutti i vantaggi della polietricita in problemi.
+Il problema sta nel fatto che sia cresciuta solo essa, una crescita omogenea di tante culture e cittadinanze sarebbe una cosa fantastica, il problema è che a crescere è solo una parte di popolazione quella straniere...che se non gestita adeguatamente trasforma tutti i vantaggi della polietricita in problemi.
 
 Chi cresce a borgonovo se ne va, questo è il problema.
 
