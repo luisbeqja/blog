@@ -33,7 +33,7 @@ A Borgonovo il 30 dicembre 2020 eravamo in **7.989.**
 
 Il 30 dicembre del 2002 eravamo circa **6.879**
 
-**La crescita in circa 20 anni è stata di +-1000 persone**...può sembra un numero abbastanza inutile che non ci dice tanto visto così, ma che in realtà ci spiega esattamente quello che sta succedendo al nostro comune. 1000 persone sono molto sotto la media italiana...la gente non vine e a vivere a Borgonovo anzi...se può o meglio, appena può se ne va.
+**La crescita in circa 20 anni è stata di +-1000 persone**...può sembra un numero abbastanza inutile che non ci dice tanto visto così, ma che in realtà ci spiega esattamente quello che sta succedendo al nostro comune. 1000 persone sono molto sotto la media italiana...la gente non viene a vivere a Borgonovo anzi...se può o meglio, appena può se ne va.
 
 ![](/images/screenshot-2022-02-22-at-09-02-59.png)
 
