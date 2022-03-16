@@ -3,9 +3,9 @@ timeToRead: 2
 authors:
 - Luis Beqja
 title: Gli artisti che devi conoscere
-excerpt: ''
-date: 2022-02-26T02:00:00.000+01:00
-hero: "/images/screenshot-2022-02-26-at-03-48-36.png"
+excerpt: Raccolta degli artisti che per me non puoi non conoscre, raccolta personale.
+date: 2022-03-15T02:00:00+01:00
+hero: "/images/magritte.jpeg"
 
 ---
 ![](/images/emilio-villalba.jpg)
