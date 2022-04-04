@@ -7,7 +7,7 @@ excerpt: Lo schema ponzi che prende il nome dal suo inventore Carlo Ponzi ( come
   poteva non essre italino ) nasce nel 1903 Negli USA, ma ancora oggi miete vittime
   in tutto il mondo, non mi starò a dillungare sulla sua nascia e come funzionava
   il primo schema ponzi. Oggi voglio insegnarvi come proteggervi e come sgamarli.
-date: 2022-04-03T00:00:00+02:00
+date: 2022-04-04T00:00:00+02:00
 hero: "/images/schema_ponzi.png"
 
 ---
