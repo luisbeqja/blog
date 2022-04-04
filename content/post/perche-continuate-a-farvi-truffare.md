@@ -43,6 +43,6 @@ Passo successivo dello schema Ponzi sarà l’**estensione della rete** di poten
 
 **Esempio**: ottenuta la fiducia della vittima, questa sarà portata a parlare bene di me e dell’investimento il che attrarrà nuove vittime e nuovo denaro.
 
-![](/images/schema_ponzi.png)
+![](/images/scjhema_ponzi.jpg)
 
 Ricorda, i soldi gratis non esistono. non puoi pensare di investire senza studiare, e nessuno, NESSUNO ti da soldi perchè gli stai simpatico.
