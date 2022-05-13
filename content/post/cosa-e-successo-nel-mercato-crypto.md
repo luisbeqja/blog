@@ -14,6 +14,6 @@ Negli ultimi giorni il mercato crypto è stato stravolto dal crollo di Terra/Lun
 
 Cerco di esporre l'attacco fatto alla Stable coin UST in 5 minuti !
 
-## [**PODCAST**](https://www.luisbeqja.com/images/podcast01.mp4 "https://www.luisbeqja.com/images/podcast01.mp4")
+## [**PODCAST**](https://www.luisbeqja.com/images/podcast01.mp4 "https://www.luisbeqja.com/images/podcast01.mp4") **👈🏼**
 
 Luis
