@@ -10,10 +10,10 @@ date: 2022-05-12T00:00:00+02:00
 hero: "/images/bitcoin-btc-price-regains-strength-has-it-reached-a-price-floor.png"
 
 ---
-Negli ultimi giorni il mercato crypto è stato stravolto dal crollo di Terra/Luna una delle piu grandi crypto. 
+Negli ultimi giorni il mercato crypto è stato stravolto dal crollo di Terra/Luna una delle piu grandi crypto.
 
-Cerco di esporre l'attacco fatto alla Stable coin UST in 5 minuti ! 
+Cerco di esporre l'attacco fatto alla Stable coin UST in 5 minuti !
 
-### [**https://www.luisbeqja.com/images/podcast01.mp4**](https://www.luisbeqja.com/images/podcast01.mp4 "https://www.luisbeqja.com/images/podcast01.mp4")
+## [**PODCAST**](https://www.luisbeqja.com/images/podcast01.mp4 "https://www.luisbeqja.com/images/podcast01.mp4")
 
 Luis
