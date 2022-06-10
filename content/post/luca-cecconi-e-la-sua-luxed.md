@@ -18,7 +18,7 @@ Ho deciso di scrivere a Luca per una piccola intervista, sono 4 principali motiv
 1. Mi piace Luxed, ha ottimi capi e un **modo di raccontarsi degno di una maison d’alta moda**
 2. Ha è saputo mettere in mostra e fare le **giuste mosse nei social**
 3. Non è il solito voler far soldi senza basi
-4. E infine è la cosa piu interessante che vedo **intorno a me** nel ultimo periodo.
+4. E infine è la cosa piu interessante che vedo **intorno a me** nell'ultimo periodo.
 
    ***
 
@@ -26,7 +26,7 @@ Ho deciso di scrivere a Luca per una piccola intervista, sono 4 principali motiv
 
 ### Chi sono Luca Cecconi e Luxed ?
 
-Ragazzo di Castel San Giovanni sono da sempre attratto dall’arte e da un **modo visivo di esprimermi**, ho studiato al liceo artistico per proseguire poi nel graphic design. Un disinteresse verso lo shopping mi ha porto a voler **disegnare i miei vestiti**, nasce così Luxed, dalla pura personalizzazione a mano, che ha portato anche i primi clienti. Da lì è stato un crescendo continuo a livello di produzioni, seguendo il concetto di lavoro su drop a pezzi limitati, conferendo così al prodotto un valore aggiunto. Luxed nasce come **passione e sfogo personale, prima di qualsiasi altra cosa.**
+Ragazzo di Castel San Giovanni, sono da sempre attratto dall’arte e da un **modo visivo di esprimermi**, ho studiato al liceo artistico per proseguire poi nel graphic design. Un disinteresse verso lo shopping mi ha portato a voler **disegnare i miei vestiti**, nasce così Luxed, dalla pura personalizzazione a mano, che ha portato anche i primi clienti. Da lì è stato un crescendo continuo a livello di produzioni, seguendo il concetto di lavoro su drop a pezzi limitati, conferendo così al prodotto un valore aggiunto. Luxed nasce come **passione e sfogo personale, prima di qualsiasi altra cosa.**
 
 ![](/images/schermata-2022-06-09-alle-17-29-45.png)
 
