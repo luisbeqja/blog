@@ -9,7 +9,7 @@ excerpt: Dopo una lunga attesta ritorno a scivere su questo blog, e non lo facci
   il mio amico Botte :)  Ed è proprio di cinema che parliamo oggi, ecco la top 10
   film da vedere assolutamente.
 date: 2022-10-03T00:00:00+02:00
-hero: ''
+hero: "/images/true-1200x675-6-16.jpg"
 
 ---
 Dopo una lunga attesta ritorno a scivere su questo blog, e non lo faccio da solo ma lo faccio a 4 mani con la persona piu appassionata di cinema che io conosca, il mio amico Botte :)
@@ -40,13 +40,15 @@ In un futuro non precisato, un drastico cambiamento climatico colpisce duramente
 
 2014 ‧ 169 minuti
 
+![](/images/a1jvqnmi7ul-_sl1500_.jpg)
+
 ### 4) Inception
 
 Dom Cobb possiede una qualifica speciale: è in grado di inserirsi nei sogni altrui per prelevare i segreti nascosti nel più profondo del subconscio. Viene contattato da Saito, un potentissimo industriale giapponese.
 
 2010 ‧ 148 minuti
 
-![47397.webp](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/183f8148-8b83-4e7c-a807-9c2ee31fd15d/47397.webp)
+![](/images/47397.webp)
 
 ### 5) Il cavaliere oscuro
 
@@ -54,7 +56,7 @@ Batman e Jim Gordon si alleano con il nuovo procuratore di Gotham City, Harvey D
 
 2008 ‧ 152 minuti
 
-![locandina.jpg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/21bd55b4-5123-4181-a3db-cca7948a18a2/locandina.jpg)
+![](/images/locandina-4.jpg)
 
 ### 6) **_Il petroliere_** (_There Will Be Blood_)
 
@@ -62,7 +64,7 @@ Ambientata in Texas nei primi anni del commercio petrolifero, una storia che tra
 
 2008 ‧ 158 minuti
 
-![locandina.jpg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/75a1c805-92ad-44ee-88ef-43d5b79dee35/locandina.jpg)
+![](/images/locandina-5.jpg)
 
 ### 7) Le ali della libertà
 
@@ -70,7 +72,7 @@ Andy Dufresne viene condannato, benché innocente, a due ergastoli e al carcere 
 
 1995 ‧ 142 minuti
 
-![locandina.jpg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/63cb03ad-5495-46ce-aac0-6d9d13ea6514/locandina.jpg)
+![](/images/locandina-6.jpg)
 
 ### 8) **The Game - Nessuna regola**
 
@@ -78,7 +80,7 @@ Uno spento uomo d'affari di mezza età, si fa convincere dal fratello minore ad 
 
 1997 ‧ 129 minuti
 
-![locandina.jpg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/b64de6e8-b583-4d9a-b0cc-ca5377e520fa/locandina.jpg)
+![](/images/locandina-7.jpg)
 
 ### 9) The Social Network
 
@@ -86,7 +88,7 @@ Pochi anni dopo aver creato Facebook nella sua stanza del dormitorio di Harvard,
 
 2010 ‧ 121 minuti
 
-![locandina.jpg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/71cfa0f6-d2a1-4012-9ac7-6ffb60675957/locandina.jpg)
+![](/images/locandina-9.jpg)
 
 ### 10) **_No Country for Old Men_**
 
@@ -94,6 +96,6 @@ Durante una battuta di caccia in solitaria, un saldatore del Texas trova e si im
 
 2008 ‧ 121 minuti
 
-![MV5BMjA5Njk3MjM4OV5BMl5BanBnXkFtZTcwMTc5MTE1MQ@@.V1.jpg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/5f6ad2c1-c555-4a3f-9958-cf2b50bc7d32/MV5BMjA5Njk3MjM4OV5BMl5BanBnXkFtZTcwMTc5MTE1MQ._V1_.jpg)
+![](/images/mv5bmja5njk3mjm4ov5bml5banbnxkftztcwmtc5mte1mq-_v1_.jpg)
 
 by Botteri Mattia - Luis Beqja
