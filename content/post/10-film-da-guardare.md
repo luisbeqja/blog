@@ -8,7 +8,7 @@ excerpt: Dopo una lunga attesta ritorno a scivere su questo blog, e non lo facci
   da solo ma lo faccio a 4 mani con la persona piu appassionata di cinema che io conosca,
   il mio amico Botte :)  Ed è proprio di cinema che parliamo oggi, ecco la top 10
   film da vedere assolutamente.
-date: 2022-10-03T00:00:00+02:00
+date: 2022-10-03T19:00:00+02:00
 hero: "/images/true-1200x675-6-16.jpg"
 
 ---
