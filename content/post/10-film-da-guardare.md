@@ -16,37 +16,77 @@ Dopo una lunga attesta ritorno a scivere su questo blog, e non lo faccio da solo
 
 Ed è proprio di cinema che parliamo oggi, ecco la top 10 film da vedere assolutamente.
 
-( non sono in ordine crescende ma casuale )
+( non sono in ordine crescente ma casuale )
 
 ### 1) **Whiplash**
 
 Andrew Neiman è un ambizioso batterista jazz il cui sogno è di diventare il migliore musicista del conservatorio. Terence Fletcher, un insegnate famoso per il suo metodo rigoroso e severo, scopre il talento del ragazzo e si impegna per aiutarne la carriera. Il giovane si impegna con dedizione ma la ricerca della perfezione si trasforma in una ossessione in grado di rovinargli la vita.
 
+Regista: [Damien Chazelle](https://www.google.com/search?client=firefox-b-d&sxsrf=ALiCzsZGWOAvoONxnh1zcugTU4_Gt5tV6g:1664810981410&q=Damien+Chazelle&stick=H4sIAAAAAAAAAOPgE-LSz9U3iLcsM8kpUgKzTSuLkirNtcSyk6300zJzcsGEVUpmUWpySX7RIlZ-l8TczNQ8BeeMxKrUnJzUHayMu9iZOBgAeWkVEkwAAAA&sa=X&ved=2ahUKEwiM0KiZsMT6AhVzX_EDHRiQBTQQmxMoAXoECGMQAw)
+
+Top Cast:
+
+* [Miles Teller](https://www.imdb.com/name/nm1886602/?ref_=tt_ov_st)
+* [J.K. Simmons](https://www.imdb.com/name/nm0799777/?ref_=tt_ov_st)
+* [Melissa Benoist](https://www.imdb.com/name/nm2552034/?ref_=tt_ov_st)
+
+Vincitore di 3 Oscar
+
 _2014 ‧ 1h 47m_
 
 ![Whiplash](/images/locandina-1-1.jpg "Whiplash")
+
+***
 
 ### 2) Prisoners
 
 In una cittadina della provincia americana due bambine spariscono. Keller, padre di una di esse, è convinto che il colpevole sia un giovane del quartiere e decide di rapirlo per farlo confessare con la forza. Nel frattempo l'investigatore Loki, impegnato ostinatamente sul caso, si mette sulle tracce di un altro sospettato.
 
-2013 ‧ 153 minuti
+Regia: [Denis Villeneuve](https://www.imdb.com/name/nm0898288/?ref_=tt_ov_dr)
+
+Top Cast:
+
+* [Hugh Jackman](https://www.imdb.com/name/nm0413168/?ref_=tt_ov_st)
+* [Jake Gyllenhaal](https://www.imdb.com/name/nm0350453/?ref_=tt_ov_st)
+* [Viola Davis](https://www.imdb.com/name/nm0205626/?ref_=tt_ov_st)
+
+Nominato a 1 Oscar
 
 ![](/images/locandina-2.jpg)
+
+***
 
 ### 3) Interstellar
 
 In un futuro non precisato, un drastico cambiamento climatico colpisce duramente l'agricoltura. Il granturco è l'unica coltivazione ancora in grado di crescere ed un gruppo di scienziati è intenzionato ad attraversare lo spazio per trovare nuovi luoghi adatti a coltivarlo.
 
-2014 ‧ 169 minuti
+Regista: [Christopher Nolan](https://www.imdb.com/name/nm0634240/?ref_=tt_ov_dr)
+
+Top Cast:
+
+* [Matthew McConaughey](https://www.imdb.com/name/nm0000190/?ref_=tt_ov_st)
+* [Anne Hathaway](https://www.imdb.com/name/nm0004266/?ref_=tt_ov_st)
+* [Jessica Chastain](https://www.imdb.com/name/nm1567113/?ref_=tt_ov_st)
+
+Vincitore di un Oscar
 
 ![](/images/a1jvqnmi7ul-_sl1500_.jpg)
+
+***
 
 ### 4) Inception
 
 Dom Cobb possiede una qualifica speciale: è in grado di inserirsi nei sogni altrui per prelevare i segreti nascosti nel più profondo del subconscio. Viene contattato da Saito, un potentissimo industriale giapponese.
 
-2010 ‧ 148 minuti
+Regista: [Christopher Nolan](https://www.imdb.com/name/nm0634240/?ref_=tt_ov_dr)
+
+Cast:
+
+* [Leonardo DiCaprio](https://www.imdb.com/name/nm0000138/?ref_=tt_ov_st)
+* [Joseph Gordon-Levitt](https://www.imdb.com/name/nm0330687/?ref_=tt_ov_st)
+* [Elliot Page](https://www.imdb.com/name/nm0680983/?ref_=tt_ov_st)
+
+Vincitore di 4 Oscar
 
 ![](/images/47397.webp)
 
