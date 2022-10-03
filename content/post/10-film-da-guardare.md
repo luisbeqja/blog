@@ -32,15 +32,13 @@ In una cittadina della provincia americana due bambine spariscono. Keller, padre
 
 2013 ‧ 153 minuti
 
-![locandina.jpg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/25150844-1f7c-47a4-b7bc-2715252f3095/locandina.jpg)
+![](/images/locandina-2.jpg)
 
 ### 3) Interstellar
 
 In un futuro non precisato, un drastico cambiamento climatico colpisce duramente l'agricoltura. Il granturco è l'unica coltivazione ancora in grado di crescere ed un gruppo di scienziati è intenzionato ad attraversare lo spazio per trovare nuovi luoghi adatti a coltivarlo.
 
 2014 ‧ 169 minuti
-
-![A1JVqNMI7UL.SL1500.jpg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/85b52ab2-40a6-49c7-b508-f991705f87ce/A1JVqNMI7UL._SL1500_.jpg)
 
 ### 4) Inception
 
