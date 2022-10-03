@@ -84,7 +84,7 @@ _2 ore 28 minuti_
 
 ### 5) Il cavaliere oscuro
 
-Batman e Jim Gordon si alleano con il nuovo procuratore di Gotham City, Harvey Dent, per combattere il crimine organizzato che dilaga in città e fermare un pericoloso rapinatore, il Joker, che ha gettato la città nell'anarchia. 
+Batman e Jim Gordon si alleano con il nuovo procuratore di Gotham City, Harvey Dent, per combattere il crimine organizzato che dilaga in città e fermare un pericoloso rapinatore, il Joker, che ha gettato la città nell'anarchia.
 
 Regista: [Christopher Nolan](https://www.imdb.com/name/nm0634240/?ref_=tt_ov_dr)
 
@@ -128,19 +128,35 @@ _2 ore 22 minuti_
 
 ![](/images/locandina-6.jpg)
 
+***
+
 ### 8) **The Game - Nessuna regola**
 
 Uno spento uomo d'affari di mezza età, si fa convincere dal fratello minore ad iscriversi in un club che organizza giochi tanto realistici che lo faranno precipitare in un incubo senza fine.
 
-1997 ‧ 129 minuti
+Regista: [David Fincher](https://www.imdb.com/name/nm0000399/?ref_=tt_ov_dr)
+
+Top Cast: [Michael Douglas](https://www.imdb.com/name/nm0000140/?ref_=tt_ov_st), [Deborah Kara Unger](https://www.imdb.com/name/nm0000679/?ref_=tt_ov_st), [Sean Penn](https://www.imdb.com/name/nm0000576/?ref_=tt_ov_st)
+
+**Nominato ad 1 Saturn Award**
+
+_2 ore 9 minuti_
 
 ![](/images/locandina-7.jpg)
+
+***
 
 ### 9) The Social Network
 
 Pochi anni dopo aver creato Facebook nella sua stanza del dormitorio di Harvard, Mark Zuckerberg è diventato un miliardario, ma il suo grande successo sta portando a problemi sia personali sia legali.
 
-2010 ‧ 121 minuti
+Regista: [David Fincher](https://www.imdb.com/name/nm0000399/?ref_=tt_ov_dr)
+
+Top Cast: [Jesse Eisenberg](https://www.imdb.com/name/nm0251986/?ref_=tt_ov_st), [Andrew Garfield](https://www.imdb.com/name/nm1940449/?ref_=tt_ov_st), [Justin Timberlake](https://www.imdb.com/name/nm0005493/?ref_=tt_ov_st)
+
+**Vincitore di 3 Oscar**
+
+_2 ore_
 
 ![](/images/locandina-9.jpg)
 
@@ -148,7 +164,13 @@ Pochi anni dopo aver creato Facebook nella sua stanza del dormitorio di Harvard,
 
 Durante una battuta di caccia in solitaria, un saldatore del Texas trova e si impossessa di una somma di denaro precedentemente rubata. L'uomo diventa così preda di una banda di criminali.
 
-2008 ‧ 121 minuti
+Regista: [Ethan Coen](https://www.imdb.com/name/nm0001053/?ref_=tt_ov_dr), [Joel Coen](https://www.imdb.com/name/nm0001054/?ref_=tt_ov_dr)
+
+Top Cast: [Tommy Lee Jones](https://www.imdb.com/name/nm0000169/?ref_=tt_ov_st), [Javier Bardem](https://www.imdb.com/name/nm0000849/?ref_=tt_ov_st), [Josh Brolin](https://www.imdb.com/name/nm0000982/?ref_=tt_ov_st)
+
+**Vincitore di 4 Oscar**
+
+_2 ore 2 minuti_
 
 ![](/images/mv5bmja5njk3mjm4ov5bml5banbnxkftztcwmtc5mte1mq-_v1_.jpg)
 
