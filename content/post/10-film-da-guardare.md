@@ -40,13 +40,11 @@ In una cittadina della provincia americana due bambine spariscono. Keller, padre
 
 Regia: [Denis Villeneuve](https://www.imdb.com/name/nm0898288/?ref_=tt_ov_dr)
 
-Top Cast:
+Top Cast: [Hugh Jackman](https://www.imdb.com/name/nm0413168/?ref_=tt_ov_st), [Jake Gyllenhaal](https://www.imdb.com/name/nm0350453/?ref_=tt_ov_st), [Viola Davis](https://www.imdb.com/name/nm0205626/?ref_=tt_ov_st)
 
-* [Hugh Jackman](https://www.imdb.com/name/nm0413168/?ref_=tt_ov_st)
-* [Jake Gyllenhaal](https://www.imdb.com/name/nm0350453/?ref_=tt_ov_st)
-* [Viola Davis](https://www.imdb.com/name/nm0205626/?ref_=tt_ov_st)
+**Nominato a 1 Oscar**
 
-Nominato a 1 Oscar
+_2 ore 28 minuti_
 
 ![](/images/locandina-2.jpg)
 
@@ -58,13 +56,11 @@ In un futuro non precisato, un drastico cambiamento climatico colpisce duramente
 
 Regista: [Christopher Nolan](https://www.imdb.com/name/nm0634240/?ref_=tt_ov_dr)
 
-Top Cast:
+Top Cast: [Matthew McConaughey](https://www.imdb.com/name/nm0000190/?ref_=tt_ov_st), [Anne Hathaway](https://www.imdb.com/name/nm0004266/?ref_=tt_ov_st), [Jessica Chastain](https://www.imdb.com/name/nm1567113/?ref_=tt_ov_st)
 
-* [Matthew McConaughey](https://www.imdb.com/name/nm0000190/?ref_=tt_ov_st)
-* [Anne Hathaway](https://www.imdb.com/name/nm0004266/?ref_=tt_ov_st)
-* [Jessica Chastain](https://www.imdb.com/name/nm1567113/?ref_=tt_ov_st)
+**Vincitore di un Oscar**
 
-Vincitore di un Oscar
+_2 ore 49 minuti_
 
 ![](/images/a1jvqnmi7ul-_sl1500_.jpg)
 
@@ -76,21 +72,25 @@ Dom Cobb possiede una qualifica speciale: è in grado di inserirsi nei sogni alt
 
 Regista: [Christopher Nolan](https://www.imdb.com/name/nm0634240/?ref_=tt_ov_dr)
 
-Cast:
+Cast: [Leonardo DiCaprio](https://www.imdb.com/name/nm0000138/?ref_=tt_ov_st), [Joseph Gordon-Levitt](https://www.imdb.com/name/nm0330687/?ref_=tt_ov_st), [Elliot Page](https://www.imdb.com/name/nm0680983/?ref_=tt_ov_st)
 
-* [Leonardo DiCaprio](https://www.imdb.com/name/nm0000138/?ref_=tt_ov_st)
-* [Joseph Gordon-Levitt](https://www.imdb.com/name/nm0330687/?ref_=tt_ov_st)
-* [Elliot Page](https://www.imdb.com/name/nm0680983/?ref_=tt_ov_st)
+**Vincitore di 4 Oscar**
 
-Vincitore di 4 Oscar
+_2 ore 28 minuti_
 
 ![](/images/47397.webp)
 
+***
+
 ### 5) Il cavaliere oscuro
 
-Batman e Jim Gordon si alleano con il nuovo procuratore di Gotham City, Harvey Dent, per combattere il crimine organizzato che dilaga in città e fermare un pericoloso rapinatore, il Joker, che ha gettato la città nell'anarchia.
+Batman e Jim Gordon si alleano con il nuovo procuratore di Gotham City, Harvey Dent, per combattere il crimine organizzato che dilaga in città e fermare un pericoloso rapinatore, il Joker, che ha gettato la città nell'anarchia. 
+
+2008 ‧ 152 minutiRegia[Christopher Nolan](https://www.imdb.com/name/nm0634240/?ref_=tt_ov_dr)
 
 2008 ‧ 152 minuti
+
+Regia[Christopher Nolan](https://www.imdb.com/name/nm0634240/?ref_=tt_ov_dr)
 
 ![](/images/locandina-4.jpg)
 
