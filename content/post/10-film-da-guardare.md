@@ -20,7 +20,7 @@ Ed è proprio di cinema che parliamo oggi, ecco la top 10 film da vedere assolut
 
 ### 1) **Whiplash**
 
-> Andrew Neiman è un ambizioso batterista jazz il cui sogno è di diventare il migliore musicista del conservatorio. Terence Fletcher, un insegnate famoso per il suo metodo rigoroso e severo, scopre il talento del ragazzo e si impegna per aiutarne la carriera. Il giovane si impegna con dedizione ma la ricerca della perfezione si trasforma in una ossessione in grado di rovinargli la vita.
+Andrew Neiman è un ambizioso batterista jazz il cui sogno è di diventare il migliore musicista del conservatorio. Terence Fletcher, un insegnate famoso per il suo metodo rigoroso e severo, scopre il talento del ragazzo e si impegna per aiutarne la carriera. Il giovane si impegna con dedizione ma la ricerca della perfezione si trasforma in una ossessione in grado di rovinargli la vita.
 
 Regista: [Damien Chazelle](https://www.google.com/search?client=firefox-b-d&sxsrf=ALiCzsZGWOAvoONxnh1zcugTU4_Gt5tV6g:1664810981410&q=Damien+Chazelle&stick=H4sIAAAAAAAAAOPgE-LSz9U3iLcsM8kpUgKzTSuLkirNtcSyk6300zJzcsGEVUpmUWpySX7RIlZ-l8TczNQ8BeeMxKrUnJzUHayMu9iZOBgAeWkVEkwAAAA&sa=X&ved=2ahUKEwiM0KiZsMT6AhVzX_EDHRiQBTQQmxMoAXoECGMQAw)
 
