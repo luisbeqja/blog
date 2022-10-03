@@ -2,108 +2,100 @@
 timeToRead: 2
 authors:
 - Luis Beqja
+- Mattia Botteri
 title: 10 film da guardare
-excerpt: 'Tra questi ultimi una persona in particolare è stata più educata e volenterosa
-  di intraprendere un dialogo: Mattia Massari.  Abbiamo fatto una chiacchierata insieme,
-  questo è quello che ne è emerso.'
-date: 2022-04-20T00:00:00.000+02:00
-hero: "/images/hires-scaled.jpg"
+excerpt: Dopo una lunga attesta ritorno a scivere su questo blog, e non lo faccio
+  da solo ma lo faccio a 4 mani con la persona piu appassionata di cinema che io conosca,
+  il mio amico Botte :)  Ed è proprio di cinema che parliamo oggi, ecco la top 10
+  film da vedere assolutamente.
+date: 2022-10-03T00:00:00+02:00
+hero: "/images/locandina-1.jpg"
 
 ---
-Poco tempo fa ho publicato un articolo, parlavo di Schema ponzi.
+Dopo una lunga attesta ritorno a scivere su questo blog, e non lo faccio da solo ma lo faccio a 4 mani con la persona piu appassionata di cinema che io conosca, il mio amico Botte :)
 
-I miei articoli sono spesso pungenti e strizzano l’occhio alla gente che mi conosce, la serie “intorno a me” nasce appunto da questa idea: parlare delle cose/persone che mi circondano.
+Ed è proprio di cinema che parliamo oggi, ecco la top 10 film da vedere assolutamente.
 
-Questo specifico argomento però ha destato più scalpore del solito, in molti mi avete scritto su instagram da chi ne voleva sapere di più a chi si era già fatto fregare. Altri invece mi hanno scritto sentendosi presi in causa, probabilmente dopo la mia storia con il paragone (ironico) tra wall street e castello. Tra questi ultimi una persona in particolare è stata più educata e volenterosa di intraprendere un dialogo: Mattia Massari.
+( non sono in ordine crescende ma casuale )
 
-Abbiamo fatto una chiacchierata insieme, questo è quello che ne è emerso.
+### 1) **Whiplash**
 
-_( dividerò l’articolo in parti cosi da permettervi di eventualmente saltare le parti che non vi interessano )_
+Andrew Neiman è un ambizioso batterista jazz il cui sogno è di diventare il migliore musicista del conservatorio. Terence Fletcher, un insegnate famoso per il suo metodo rigoroso e severo, scopre il talento del ragazzo e si impegna per aiutarne la carriera. Il giovane si impegna con dedizione ma la ricerca della perfezione si trasforma in una ossessione in grado di rovinargli la vita.
 
-1. chi è Mattia Massari ?
-2. studiare
-3. Multi level marketing
-4. Dove sta l’investimento
-5. come viene venduto
-6. conclusioni su Mlm
-7. i bot automatici
-8. conclusione
+2014 ‧ 1h 47m
 
-### 1 - Chi è Mattia Massari ?
+[locandina.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20221003%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20221003T142611Z&X-Amz-Expires=86400&X-Amz-Signature=bcb8197e22b36993f3fc8ad5469886abed4e8cbe5f0f051ae3c6285a5ff9fa04&X-Amz-SignedHeaders=host&response-content-disposition=filename %3D"locandina.jpg"&x-id=GetObject](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/b7b409e2-9ec7-404f-a7e9-2e6fdb34d2ef/locandina.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20221003%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20221003T142611Z&X-Amz-Expires=86400&X-Amz-Signature=bcb8197e22b36993f3fc8ad5469886abed4e8cbe5f0f051ae3c6285a5ff9fa04&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22locandina.jpg%22&x-id=GetObject 'locandina.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20221003%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20221003T142611Z&X-Amz-Expires=86400&X-Amz-Signature=bcb8197e22b36993f3fc8ad5469886abed4e8cbe5f0f051ae3c6285a5ff9fa04&X-Amz-SignedHeaders=host&response-content-disposition=filename %3D"locandina.jpg"&x-id=GetObject')
 
-Mattia è un ragazzo che vive a Castel San Giovanni, ha 24 anni e ad oggi affianca quello che è un lavoro standard “comune” a quella che è l’imprenditoria digitale
+### 2) Prisoners
 
-“non sono ancora un imprenditore full time 100%, non sono il guru che gira in Lambo a Dubai e ti chiede di investire nel suo software” ( e io aggiungo, sono questi quelli da qui dovete stare assolutamente alla larga ) “ ma sono semplicemente un ragazzo che sta studiando, da ormai due anni quello che sono i mercati finanziari le crypto e tutto quello che riguarda il digitale”
+In una cittadina della provincia americana due bambine spariscono. Keller, padre di una di esse, è convinto che il colpevole sia un giovane del quartiere e decide di rapirlo per farlo confessare con la forza. Nel frattempo l'investigatore Loki, impegnato ostinatamente sul caso, si mette sulle tracce di un altro sospettato.
 
-### 2 - Studiare
+2013 ‧ 153 minuti
 
-Quello che emerge subito dalla presentazione di Mattia è che lui dopo due anni ancora studia e ancora non è riuscito a dedicarsi al 100% al mondo della finanza...questo cosa ci fa intendere, che non è semplice, non si fanno soldi senza conoscienze e senza voglia di sudare, faticare e soprattutto studiare. Se pensavate di guadagnare miliaia di euro invitando 3 amici...vi sbagliate di grosso.
+![locandina.jpg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/25150844-1f7c-47a4-b7bc-2715252f3095/locandina.jpg)
 
-### 3 - Multi level marketing
+### 3) Interstellar
 
-Entriamo subito nella parte fondamentale...quello che viene chiamato MLM.
+In un futuro non precisato, un drastico cambiamento climatico colpisce duramente l'agricoltura. Il granturco è l'unica coltivazione ancora in grado di crescere ed un gruppo di scienziati è intenzionato ad attraversare lo spazio per trovare nuovi luoghi adatti a coltivarlo.
 
-Una delle critiche maggiori che mi è stata fatta riguardo il primo articolo è di non aver differenziato lo schema ponzi dal mlm.
+2014 ‧ 169 minuti
 
-Partendo dal presupposto che quello che è scritto nel articolo sullo schema ponzi è indiscutibilmente corretto, lo schema ponzi può venir confuso da chi non ne conosce la differenza con il Multi-level.
+![A1JVqNMI7UL.SL1500.jpg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/85b52ab2-40a6-49c7-b508-f991705f87ce/A1JVqNMI7UL._SL1500_.jpg)
 
-![](/images/mlm-wiki.png)
+### 4) Inception
 
-Capite anche voi che la somiglianza allo schema ponzi è innegabile...c’è un unica piccola differenza, ma che cambia totalmente le carte in gioco...nel multi-level tu vendi un PRODOTTO.
+Dom Cobb possiede una qualifica speciale: è in grado di inserirsi nei sogni altrui per prelevare i segreti nascosti nel più profondo del subconscio. Viene contattato da Saito, un potentissimo industriale giapponese.
 
-Ti offri al azienda, quella che vende il prodotto, come tramite per farle pubblicità. Se la tua pubblicità sarà efficace ( e quindi porterai nuovi utenti ) verrai ricompensato con una percentuale della vendita. Chiaramente questo non è un fisso per tutti i mesi, più gente riesci a portare più prendi, se la persona continua a rinnovare la sua iscrizione al servizio tu contini a prendere la sua percentuale. Nel momento il cui questa persona non rinnova più, il tuo guadagno perde la percentuale di persona.
+2010 ‧ 148 minuti
 
-### 4 - dove sta l’investimento
+![47397.webp](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/183f8148-8b83-4e7c-a807-9c2ee31fd15d/47397.webp)
 
-Il mlm non è un INVESTIMENTO non si può pensare di intraprendere una cariera solo nel Multi level marketing, può essere un aiuto economico nel momento in cui si decide di intraprender un percorso di studio serio e intenso. Ma intraprendere uno studio pensando di dover solo invitare persone e essere a posto per il resto della vita ricevendo 1000 euro fissi al mese è quasi utopico.
+### 5) Il cavaliere oscuro
 
-Non esistono metodi senza studio e senza rischio che ti permettono di guadagnare soldi mensilmente.
+Batman e Jim Gordon si alleano con il nuovo procuratore di Gotham City, Harvey Dent, per combattere il crimine organizzato che dilaga in città e fermare un pericoloso rapinatore, il Joker, che ha gettato la città nell'anarchia.
 
-Il trading, le crypto e il mercato finanziario possono essere definiti investimenti, non il MLM.
+2008 ‧ 152 minuti
 
-### 5 - Come viene venduto
+![locandina.jpg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/21bd55b4-5123-4181-a3db-cca7948a18a2/locandina.jpg)
 
-Il multi level marketing di per se non è ne una cosa sbagliata ne una cosa illegale ( per quanto io la ritenga una cosa non completamente etica, perchè spinge la gente a invitare più persone possibili indistamente da chi siano e da cosa vogliano ). Il problema vero è come spesso questa cose venga venduta: diverse persone sono venute a dirmi che gli era stato proposto di entrare in questi giri di investimenti sicuri al 100% con entrate fisse. se non poi venire a scoprire che si tratta di mlm.
+### 6) **_Il petroliere_** (_There Will Be Blood_)
 
-### 6 - Conclusioni sul Multi level marketing
+Ambientata in Texas nei primi anni del commercio petrolifero, una storia che tratta di famiglia, avidità, religione ed oro nero.
 
-Concludendo questa parentesi mlm ci tendo a dire due cose. Se volete buttarvi nel mondo degli investimenti sappiate che:
+2008 ‧ 158 minuti
 
-1. 95% dei trader perde soldi.
-2. il multi level non è in alcun modo correlato al mercato finanziario
-3. devi studiare tanto, non pensare di fare soldi nei primi mesi
-4. se non sei pronto ad intraprendere un percorso lungo e serio, non buttare i tuoi soldi nel Mlm, o in un scuola ce sai di non portare avanti
+![locandina.jpg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/75a1c805-92ad-44ee-88ef-43d5b79dee35/locandina.jpg)
 
-### 7 - i bot automatici
+### 7) Le ali della libertà
 
-Per ultimo vorrei parlare di questi famigerati bot di trading automatici...
+Andy Dufresne viene condannato, benché innocente, a due ergastoli e al carcere duro. In prigione stringe amicizia con Red, sperimenta la brutalità della vita dietro le sbarre, si adatta, e vive 19 anni sognando la libertà.
 
-Che dire, statene alla larga gente da anni studia come battere il mercato come investire nel momento giusto e oggi arrivano i geni di Castel San Giovanni che grazie ad un bot fanno soldi senza fare niente.
+1995 ‧ 142 minuti
 
-Questa cosa non esiste. Chi direbbe in giro la formula per fare soldi senza fare niente se veramente la avesse. Quale bisogno avreste voi in possesso di uno strumento che ti fa guadagnare al infinito di venderlo.
+![locandina.jpg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/63cb03ad-5495-46ce-aac0-6d9d13ea6514/locandina.jpg)
 
-A castello in particolare io ne conosco una di pagina instagram che fa questa cosa, ( perchè chiamarla agenzia è dispregiativo verso il calzolaio sotto casa ).
+### 8) **The Game - Nessuna regola**
 
-Non faccio il nome perchè mi è stato chiaramente chiedo da amiche che conoscono la gente che ne fa parte.
+Uno spento uomo d'affari di mezza età, si fa convincere dal fratello minore ad iscriversi in un club che organizza giochi tanto realistici che lo faranno precipitare in un incubo senza fine.
 
-l’azienda che chiamerò PincoPallino inv.
+1997 ‧ 129 minuti
 
-Spaccia di aver sviluppato il primo **servizio certificato in Italia** di _copytrading. Quando io so da fonti interne che il bot è stato comprato da loro stessi._
+![locandina.jpg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/b64de6e8-b583-4d9a-b0cc-ca5377e520fa/locandina.jpg)
 
-Dicono di averlo creato con l’aiuto di due trader con 7 anni di esperienza...il “ceo” della PincoPallino ha tipo 20 anni
+### 9) The Social Network
 
-Nel loro sito ( parere personale da Developer BRUTTINO ) non presentano partita Iva, **Privacy Policy** e **Cookie Policy**
+Pochi anni dopo aver creato Facebook nella sua stanza del dormitorio di Harvard, Mark Zuckerberg è diventato un miliardario, ma il suo grande successo sta portando a problemi sia personali sia legali.
 
-PincoPallino, non esco i vostri nomi solo per rispetto di chi me lo ha chiesto.
+2010 ‧ 121 minuti
 
-Ma sapete anche voi che siete da denuncia...e che state dicendo un mare di cazzate.
+![locandina.jpg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/71cfa0f6-d2a1-4012-9ac7-6ffb60675957/locandina.jpg)
 
-### 8 - Conclusioni
+### 10) **_No Country for Old Men_**
 
-Ci tengo a ringraziare Mattia per la disponibilità e per averci messo la faccia, a tutti voi per l’interessamento che mi avete mostrato, vi voglio ricordare che il mio non è assolutamente un canale dove informarsi su certi temi, il mio è un blog che parla di quello che a me interessa.
+Durante una battuta di caccia in solitaria, un saldatore del Texas trova e si impossessa di una somma di denaro precedentemente rubata. L'uomo diventa così preda di una banda di criminali.
 
-Per informarsi esistono altri canali e posti.
+2008 ‧ 121 minuti
 
-Non fatevi fregare dai primi polli però daiiii
+![MV5BMjA5Njk3MjM4OV5BMl5BanBnXkFtZTcwMTc5MTE1MQ@@.V1.jpg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/5f6ad2c1-c555-4a3f-9958-cf2b50bc7d32/MV5BMjA5Njk3MjM4OV5BMl5BanBnXkFtZTcwMTc5MTE1MQ._V1_.jpg)
 
-Luis
+by Botteri Mattia - Luis Beqja
