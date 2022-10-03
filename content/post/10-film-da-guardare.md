@@ -72,7 +72,7 @@ Dom Cobb possiede una qualifica speciale: è in grado di inserirsi nei sogni alt
 
 Regista: [Christopher Nolan](https://www.imdb.com/name/nm0634240/?ref_=tt_ov_dr)
 
-Cast: [Leonardo DiCaprio](https://www.imdb.com/name/nm0000138/?ref_=tt_ov_st), [Joseph Gordon-Levitt](https://www.imdb.com/name/nm0330687/?ref_=tt_ov_st), [Elliot Page](https://www.imdb.com/name/nm0680983/?ref_=tt_ov_st)
+Top Cast: [Leonardo DiCaprio](https://www.imdb.com/name/nm0000138/?ref_=tt_ov_st), [Joseph Gordon-Levitt](https://www.imdb.com/name/nm0330687/?ref_=tt_ov_st), [Elliot Page](https://www.imdb.com/name/nm0680983/?ref_=tt_ov_st)
 
 **Vincitore di 4 Oscar**
 
@@ -86,27 +86,45 @@ _2 ore 28 minuti_
 
 Batman e Jim Gordon si alleano con il nuovo procuratore di Gotham City, Harvey Dent, per combattere il crimine organizzato che dilaga in città e fermare un pericoloso rapinatore, il Joker, che ha gettato la città nell'anarchia. 
 
-2008 ‧ 152 minutiRegia[Christopher Nolan](https://www.imdb.com/name/nm0634240/?ref_=tt_ov_dr)
+Regista: [Christopher Nolan](https://www.imdb.com/name/nm0634240/?ref_=tt_ov_dr)
 
-2008 ‧ 152 minuti
+Top Cast: [Christian Bale](https://www.imdb.com/name/nm0000288/?ref_=tt_ov_st), [Heath Ledger](https://www.imdb.com/name/nm0005132/?ref_=tt_ov_st), [Aaron Eckhart](https://www.imdb.com/name/nm0001173/?ref_=tt_ov_st)
 
-Regia[Christopher Nolan](https://www.imdb.com/name/nm0634240/?ref_=tt_ov_dr)
+**Vincitore di 2 Oscar**
+
+2 ore 32 minuti
 
 ![](/images/locandina-4.jpg)
+
+***
 
 ### 6) **_Il petroliere_** (_There Will Be Blood_)
 
 Ambientata in Texas nei primi anni del commercio petrolifero, una storia che tratta di famiglia, avidità, religione ed oro nero.
 
-2008 ‧ 158 minuti
+Regista: [Paul Thomas Anderson](https://www.imdb.com/name/nm0000759/?ref_=tt_ov_dr)
+
+Top Cast: [Daniel Day-Lewis](https://www.imdb.com/name/nm0000358/?ref_=tt_ov_st), [Paul Dano](https://www.imdb.com/name/nm0200452/?ref_=tt_ov_st), [Ciarán Hinds](https://www.imdb.com/name/nm0001354/?ref_=tt_ov_st)
+
+**Vincitore di 2 Oscar**
+
+_2 ore 38 minuti_
 
 ![](/images/locandina-5.jpg)
+
+***
 
 ### 7) Le ali della libertà
 
 Andy Dufresne viene condannato, benché innocente, a due ergastoli e al carcere duro. In prigione stringe amicizia con Red, sperimenta la brutalità della vita dietro le sbarre, si adatta, e vive 19 anni sognando la libertà.
 
-1995 ‧ 142 minuti
+Regista: [Frank Darabont](https://www.imdb.com/name/nm0001104/?ref_=tt_ov_dr)
+
+Top Cast: [Tim Robbins](https://www.imdb.com/name/nm0000209/?ref_=tt_ov_st), [Morgan Freeman](https://www.imdb.com/name/nm0000151/?ref_=tt_ov_st), [Bob Gunton](https://www.imdb.com/name/nm0348409/?ref_=tt_ov_st)
+
+**Candidato a 7 Oscar**
+
+_2 ore 22 minuti_
 
 ![](/images/locandina-6.jpg)
 
