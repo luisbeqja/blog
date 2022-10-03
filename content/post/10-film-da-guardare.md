@@ -9,7 +9,7 @@ excerpt: Dopo una lunga attesta ritorno a scivere su questo blog, e non lo facci
   il mio amico Botte :)  Ed è proprio di cinema che parliamo oggi, ecco la top 10
   film da vedere assolutamente.
 date: 2022-10-03T00:00:00+02:00
-hero: "/images/locandina-1.jpg"
+hero: ''
 
 ---
 Dopo una lunga attesta ritorno a scivere su questo blog, e non lo faccio da solo ma lo faccio a 4 mani con la persona piu appassionata di cinema che io conosca, il mio amico Botte :)
@@ -22,9 +22,9 @@ Ed è proprio di cinema che parliamo oggi, ecco la top 10 film da vedere assolut
 
 Andrew Neiman è un ambizioso batterista jazz il cui sogno è di diventare il migliore musicista del conservatorio. Terence Fletcher, un insegnate famoso per il suo metodo rigoroso e severo, scopre il talento del ragazzo e si impegna per aiutarne la carriera. Il giovane si impegna con dedizione ma la ricerca della perfezione si trasforma in una ossessione in grado di rovinargli la vita.
 
-2014 ‧ 1h 47m
+_2014 ‧ 1h 47m_
 
-[locandina.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20221003%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20221003T142611Z&X-Amz-Expires=86400&X-Amz-Signature=bcb8197e22b36993f3fc8ad5469886abed4e8cbe5f0f051ae3c6285a5ff9fa04&X-Amz-SignedHeaders=host&response-content-disposition=filename %3D"locandina.jpg"&x-id=GetObject](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/b7b409e2-9ec7-404f-a7e9-2e6fdb34d2ef/locandina.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20221003%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20221003T142611Z&X-Amz-Expires=86400&X-Amz-Signature=bcb8197e22b36993f3fc8ad5469886abed4e8cbe5f0f051ae3c6285a5ff9fa04&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22locandina.jpg%22&x-id=GetObject 'locandina.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20221003%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20221003T142611Z&X-Amz-Expires=86400&X-Amz-Signature=bcb8197e22b36993f3fc8ad5469886abed4e8cbe5f0f051ae3c6285a5ff9fa04&X-Amz-SignedHeaders=host&response-content-disposition=filename %3D"locandina.jpg"&x-id=GetObject')
+![Whiplash](/images/locandina-1-1.jpg "Whiplash")
 
 ### 2) Prisoners
 
