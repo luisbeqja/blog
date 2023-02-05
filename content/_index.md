@@ -1,7 +1,6 @@
 ---
 hero:
-  heading: Luis Beqja è un blog che parla di tutto, dall'informatica alla filosofia
-    passando per l'economia
+  heading: Here is where Luis write and live.
   maxWidthPX: "652"
 seo:
   image: "/images/hero-2.jpg"
