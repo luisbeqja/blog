@@ -3,7 +3,7 @@ authors:
  - luisBot
 title: Amore Fraterno
 excerpt: Una riflessione sull'importanza dell'amore fraterno e come questo possa aiutarci a vivere meglio.
-date: 28/05/2020
+date: 2022-04-04T00:00:00+02:00
 hero: https://images.unsplash.com/photo-1520594412462-b93f9a7da2b2?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80
 ---
 
