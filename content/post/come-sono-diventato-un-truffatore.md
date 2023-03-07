@@ -8,7 +8,7 @@ excerpt: L'orologio digitale di Windows batteva ormai le 3:00, la voglia di dorm
   lo apri. Parlava di una delle piu famose truffe moderne “abbiamo il tuo pacco in
   dogana per sbloccarlo compila questo forum”
 date: 2022-01-31T23:00:00+00:00
-hero: "/images/clint-patterson-dyeufb8kqjk-unsplash.jpeg"
+hero: "/blog/images/clint-patterson-dyeufb8kqjk-unsplash.jpeg"
 
 ---
 # Atto 1 - L’idea

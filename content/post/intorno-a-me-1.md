@@ -7,7 +7,7 @@ excerpt: Lo scrivo perché ho paura di dimenticarlo.  Quando misi il primo piede
   quella casa mi stupì subito quanto il parquet scricchiolasse ad ogni nostro passo,
   erano i nostri corpi troppo pesanti o i nostri pensieri?
 date: 2022-01-03T00:00:00+01:00
-hero: "/images/suanna.png"
+hero: "/blog/images/suanna.png"
 
 ---
 **intorno a me è una rubrica che parla del mondo che mi circonda, delle persone che vedo e delle cose che sento**

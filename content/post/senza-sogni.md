@@ -7,7 +7,7 @@ excerpt: 'Vedo intorno a me, gente che non sa cosa fare della propria vita, capi
   che non sia facile sapere cosa fare del propio futuro ma so anche che senza cercare
   di dare un senso ai propri giorni si spreca solo tempo prezioso. '
 date: 2022-02-01T00:00:00.000+01:00
-hero: "/images/yukio.png"
+hero: "/blog/images/yukio.png"
 
 ---
 # Senza sogni

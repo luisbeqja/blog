@@ -7,7 +7,7 @@ excerpt: 'C’è questa idea diffusa che la religione andrebbe rispettata a pres
   La ritengo un’idea sbagliata e pericolosa. Io non rispetto la religione. Ritengo
   la religione una sciagura per l’umanità. '
 date: 2022-02-02T00:00:00+01:00
-hero: "/images/adrian-dascal-4baom7usuqy-unsplash.jpeg"
+hero: "/blog/images/adrian-dascal-4baom7usuqy-unsplash.jpeg"
 
 ---
 CRISTIANESIMO.

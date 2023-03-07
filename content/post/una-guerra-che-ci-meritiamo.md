@@ -9,7 +9,7 @@ excerpt: 'Non sono questi i punti che voglio affrontare oggi. Il punto di questo
   fare a meno,  COME ABBIAMO FATTO A SOSTENERE POLITICI CHE LODAVANO PUTIN COME GRANDE
   UOMO E POLITO.'
 date: 2022-02-26T02:00:00+01:00
-hero: "/images/screenshot-2022-02-26-at-03-48-36.png"
+hero: "/blog/images/screenshot-2022-02-26-at-03-48-36.png"
 
 ---
 15 aprile 2003 – il deputato liberale Sergei Yushenkov, 52 anni, è ucciso mentre tornava a casa

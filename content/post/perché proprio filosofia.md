@@ -8,7 +8,7 @@ excerpt: Dopo cinque anni di elementari, tre di medie e altri cinque di superior
   parte dei ragazzi intraprende fin da subito la carriera lavorativa e l’altra parte
   invece decide di proseguire il proprio percorso di studi all’università.
 date: 2022-02-09T22:00:00+01:00
-hero: "/images/a-cosa-serve-la-filosofia-blog-facebook-1080x628.png"
+hero: "/blog/images/a-cosa-serve-la-filosofia-blog-facebook-1080x628.png"
 
 ---
 Dopo cinque anni di elementari, tre di medie e altri cinque di superiori, uno studente italiano si ritrova a dover fare i conti con il proprio futuro.  

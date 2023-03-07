@@ -6,7 +6,7 @@ title: 'Borgonovo, l’inizio del declino '
 excerpt: In particolare vorremmo fare il punto della situazione su come un paese,
   se trascurato, possa cambiare completamente volto, in poco più di 5 anni…
 date: 2022-02-21T09:00:00+01:00
-hero: "/images/sloiw9wbux1u3j32mhxdisjqb107iwhlcplrbwrn.jpeg"
+hero: "/blog/images/sloiw9wbux1u3j32mhxdisjqb107iwhlcplrbwrn.jpeg"
 
 ---
 **Parte 1:**

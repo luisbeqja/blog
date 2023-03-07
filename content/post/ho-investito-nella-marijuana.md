@@ -6,7 +6,7 @@ title: 'Ho investito nella marijuana ? '
 excerpt: E' il nome dell'ultima azienda su cui ho investito, lavora nel mercato della
   canapa ( cannabis ).
 date: 2022-02-07T00:00:00+01:00
-hero: "/images/dsc02731-1200x800.jpeg"
+hero: "/blog/images/dsc02731-1200x800.jpeg"
 
 ---
 ## _innovative industrial properties_

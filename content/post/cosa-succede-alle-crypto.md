@@ -7,7 +7,7 @@ excerpt: 'Tra questi ultimi una persona in particolare è stata più educata e v
   di intraprendere un dialogo: Mattia Massari.  Abbiamo fatto una chiacchierata insieme,
   questo è quello che ne è emerso.'
 date: 2022-04-20T00:00:00.000+02:00
-hero: "/images/hires-scaled.jpg"
+hero: "/blog/images/hires-scaled.jpg"
 
 ---
 Poco tempo fa ho publicato un articolo, parlavo di Schema ponzi.

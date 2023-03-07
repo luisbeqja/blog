@@ -5,7 +5,7 @@ authors:
 title: Gli artisti che devi conoscere
 excerpt: Raccolta degli artisti che per me non puoi non conoscre, raccolta personale.
 date: 2022-03-15T02:00:00+01:00
-hero: "/images/magritte.jpeg"
+hero: "/blog/images/magritte.jpeg"
 
 ---
 ![](/images/emilio-villalba.jpg)

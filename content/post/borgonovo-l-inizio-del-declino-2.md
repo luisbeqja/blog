@@ -8,7 +8,7 @@ excerpt: Incredibile ma vero...la popolazione Borgonovese dal 2002 al 2021 è cr
   grazie soltanto ai cittadini stranieri, e attenzione, non stiamo dicendo che la
   crescita della polietricità di un paese sia una cosa negativa, anzi.
 date: 2022-02-28T09:00:00+01:00
-hero: "/images/sloiw9wbux1u3j32mhxdisjqb107iwhlcplrbwrn.jpeg"
+hero: "/blog/images/sloiw9wbux1u3j32mhxdisjqb107iwhlcplrbwrn.jpeg"
 
 ---
 #### **Concretamente quali sono i problemi che a Borgonovo continuano ad aumentare:**

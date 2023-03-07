@@ -8,7 +8,7 @@ excerpt: Le ambizioni sono le più alte, ovvero affermarsi nel mondo dell’alta
   nell’immediato futuro il brand cercherà nuove idee di marketing per commercializzare
   i prodotti in modi innovativi.
 date: 2022-06-08T00:00:00.000+02:00
-hero: "/images/schermata-2022-06-09-alle-17-10-33.png"
+hero: "/blog/images/schermata-2022-06-09-alle-17-10-33.png"
 
 ---
 Per la serie **“intorno a me”** oggi vi parlo di **Luca Cecconi** e la sua **LUXED**.
