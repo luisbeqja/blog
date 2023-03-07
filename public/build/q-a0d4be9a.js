@@ -1,0 +1,1 @@
+import{a as e,F as t,_ as a}from"./q-6c9145c2.js";const o=e(t(()=>a(()=>import("./q-cb6865b4.js"),["build/q-cb6865b4.js","build/q-6c9145c2.js"]),"s_xYL1qOwPyDI")),r={title:"Luis Beqja",meta:[{name:"description",content:"Luis Beqja a 21 years old Front end Developer from Italy. Im currenly living in Antwerp ( Belgium ) "}]};export{o as default,r as head};
