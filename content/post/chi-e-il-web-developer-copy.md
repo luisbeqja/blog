@@ -10,7 +10,7 @@ excerpt: il web developer é colui che pensa e crea tutto ciò che é all'intern
   chiarire cosa altro può essere il web development vi parlo di 3 progetti a cui ho
   lavorato.
 date: 2022-12-28T00:00:00+01:00
-hero: "/images/how-to-become-a-web-developer-it.jpeg"
+hero: "/blog/images/16722827_10206521148227640_2007610180545932237_o.jpg"
 
 ---
 Appena passato il natale e io come tutti i programmatori del mondo ci siamo ritrovati a dover spiegare che lavoro facciamo ai nostri parenti…e come sempre l'unica risposta possibile è la solita "lavoro con il computer Nonna, creo le cose che usi con il telefono"
