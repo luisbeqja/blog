@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors on Luis Beqja</title>
+    <link>https://www.luisbeqja.com/blog/authors/</link>
+    <description>Recent content in Authors on Luis Beqja</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 28 Dec 2022 00:00:00 +0100</lastBuildDate><atom:link href="https://www.luisbeqja.com/blog/authors/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Luis Beqja</title>
+      <link>https://www.luisbeqja.com/blog/authors/luis-beqja/</link>
+      <pubDate>Wed, 28 Dec 2022 00:00:00 +0100</pubDate>
+      
+      <guid>https://www.luisbeqja.com/blog/authors/luis-beqja/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mattia Botteri</title>
+      <link>https://www.luisbeqja.com/blog/authors/mattia-botteri/</link>
+      <pubDate>Sun, 02 Oct 2022 04:00:00 +0200</pubDate>
+      
+      <guid>https://www.luisbeqja.com/blog/authors/mattia-botteri/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Luca Cecconi</title>
+      <link>https://www.luisbeqja.com/blog/authors/luca-cecconi/</link>
+      <pubDate>Wed, 08 Jun 2022 00:00:00 +0200</pubDate>
+      
+      <guid>https://www.luisbeqja.com/blog/authors/luca-cecconi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Borgonovese anonimo </title>
+      <link>https://www.luisbeqja.com/blog/authors/borgonovese-anonimo/</link>
+      <pubDate>Mon, 28 Feb 2022 09:00:00 +0100</pubDate>
+      
+      <guid>https://www.luisbeqja.com/blog/authors/borgonovese-anonimo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Beatrice Brega</title>
+      <link>https://www.luisbeqja.com/blog/authors/beatrice-brega/</link>
+      <pubDate>Wed, 09 Feb 2022 22:00:00 +0100</pubDate>
+      
+      <guid>https://www.luisbeqja.com/blog/authors/beatrice-brega/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Susanna Ferri</title>
+      <link>https://www.luisbeqja.com/blog/authors/susanna-ferri/</link>
+      <pubDate>Mon, 03 Jan 2022 00:00:00 +0100</pubDate>
+      
+      <guid>https://www.luisbeqja.com/blog/authors/susanna-ferri/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Brad Tiller</title>
+      <link>https://www.luisbeqja.com/blog/authors/brad-tiller/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.luisbeqja.com/blog/authors/brad-tiller/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,1 @@
+import{e,F as t,_ as i}from"./q-45703bf8.js";const s=e(t(()=>i(()=>import("./q-15d4ccb4.js"),["build/q-15d4ccb4.js","build/q-45703bf8.js"]),"s_xYL1qOwPyDI")),a={title:"Luis Beqja",meta:[{name:"description",content:"Qwik site description"}]};export{s as default,a as head};
