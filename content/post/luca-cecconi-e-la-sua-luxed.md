@@ -1,16 +1,18 @@
 ---
 timeToRead: 2
 authors:
-- Luis Beqja
-- Luca Cecconi
+  - Luis Beqja
+  - Luca Cecconi
 title: Luca Cecconi e la sua Luxed
-excerpt: Le ambizioni sono le più alte, ovvero affermarsi nel mondo dell’alta moda,
-  nell’immediato futuro il brand cercherà nuove idee di marketing per commercializzare
-  i prodotti in modi innovativi.
-date: 2022-06-08T00:00:00.000+02:00
-hero: "/blog/images/schermata-2022-06-09-alle-17-10-33.png"
-
+excerpt: >-
+  Le ambizioni sono le più alte, ovvero affermarsi nel mondo dell’alta moda,
+  nell’immediato futuro il brand cercherà nuove idee di marketing per
+  commercializzare i prodotti in modi innovativi.
+date: 2022-06-07T22:00:00.000Z
+hero: /blog/images/schermata-2022-06-09-alle-17-10-33.png
+_template: post
 ---
+
 Per la serie **“intorno a me”** oggi vi parlo di **Luca Cecconi** e la sua **LUXED**.
 
 Ho deciso di scrivere a Luca per una piccola intervista, sono 4 principali motivi

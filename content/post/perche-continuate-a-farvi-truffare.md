@@ -1,16 +1,19 @@
 ---
 timeToRead: 2
 authors:
-- Luis Beqja
+  - Luis Beqja
 title: 'Perchè continuate a farvi truffare ? '
-excerpt: Lo schema ponzi che prende il nome dal suo inventore Carlo Ponzi ( come non
-  poteva non essre italino ) nasce nel 1903 Negli USA, ma ancora oggi miete vittime
-  in tutto il mondo, non mi starò a dillungare sulla sua nascia e come funzionava
-  il primo schema ponzi. Oggi voglio insegnarvi come proteggervi e come sgamarli.
-date: 2022-04-04T00:00:00+02:00
-hero: "/blog/images/schema_ponzi.png"
-
+excerpt: >-
+  Lo schema ponzi che prende il nome dal suo inventore Carlo Ponzi ( come non
+  poteva non essre italino ) nasce nel 1903 Negli USA, ma ancora oggi miete
+  vittime in tutto il mondo, non mi starò a dillungare sulla sua nascia e come
+  funzionava il primo schema ponzi. Oggi voglio insegnarvi come proteggervi e
+  come sgamarli.
+date: 2022-04-03T22:00:00.000Z
+hero: /blog/images/schema_ponzi.png
+_template: post
 ---
+
 SCHEMA PONZI, DA SEMPRE SINONIMO DI TRUFFA, MA CONTINUA A FUNZIONARE ANCORA OGGI MEGLIO CHE MAI. COSè E COME FUNZIONA.
 
 Lo schema ponzi che prende il nome dal suo inventore **Carlo Ponzi ( come non poteva non essre italino ) nasce nel 1903** Negli USA, ma ancora oggi miete vittime in tutto il mondo, non mi starò a dillungare sulla sua nascia e come funzionava il primo schema ponzi. Oggi voglio insegnarvi come proteggervi e come sgamarli.

@@ -1,15 +1,17 @@
 ---
 timeToRead: 1
 authors:
-- Luis Beqja
+  - Luis Beqja
 title: Perché la religione é (stata) così importante
-excerpt: L'uomo è sempre stato attratto dall'ignoto, fin dalla sua nascita ha avuto
-  il bisogno sfrenato di idolatrare qualcuno, le piante, gli animali, fino ad arrivare
-  ad entità sovrannaturali come Cristo o i vari dèi Pagani.
-date: 2021-08-31T22:00:00+00:00
-hero: "/blog/images/photo-1556005693-00fff02f134c.jpeg"
-
+excerpt: >-
+  L'uomo è sempre stato attratto dall'ignoto, fin dalla sua nascita ha avuto il
+  bisogno sfrenato di idolatrare qualcuno, le piante, gli animali, fino ad
+  arrivare ad entità sovrannaturali come Cristo o i vari dèi Pagani.
+date: 2021-08-31T22:00:00.000Z
+hero: /blog/images/photo-1556005693-00fff02f134c.jpeg
+_template: post
 ---
+
 **La religione ?**
 
 Sí, proprio così, la religione ha avuto un ruolo imprescindibile nella storia della nostra evoluzione, senza essa probabilmente non saremmo stati in grado di arrivare a governare il pianeta in cui viviamo.

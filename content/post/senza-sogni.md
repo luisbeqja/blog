@@ -1,15 +1,17 @@
 ---
 timeToRead: 2
 authors:
-- Luis Beqja
+  - Luis Beqja
 title: Senza sogni
-excerpt: 'Vedo intorno a me, gente che non sa cosa fare della propria vita, capisco
-  che non sia facile sapere cosa fare del propio futuro ma so anche che senza cercare
-  di dare un senso ai propri giorni si spreca solo tempo prezioso. '
-date: 2022-02-01T00:00:00.000+01:00
-hero: "/blog/images/yukio.png"
-
+excerpt: >-
+  Vedo intorno a me, gente che non sa cosa fare della propria vita, capisco che
+  non sia facile sapere cosa fare del propio futuro ma so anche che senza
+  cercare di dare un senso ai propri giorni si spreca solo tempo prezioso. 
+date: 2022-01-31T23:00:00.000Z
+hero: /blog/images/yukio.png
+_template: post
 ---
+
 # Senza sogni
 
 Vedo intorno a me, gente che non sa cosa fare della propria vita, capisco che non sia facile sapere cosa fare del propio futuro ma so anche che senza cercare di dare un senso ai propri giorni si spreca solo tempo prezioso. Gente che studia per studiare, lavora per lavorare, fa quello che non vorrebbe fare solo perchè gli viene imposto. Non capisco i miei coetanei che come ambizione hanno quella di lavorare in fabbrica tutta la vita, prendere 1500€ e non potersi pagare una vacanza in futuro. E non parlo solo di Lavoro ma di dare un senso, di cercare qualcosa per cui passare le proprie giornate una passione che ci faccia svegliare. Non critico il fatto che in questo momento stiano facendo questo, io sono il primo a prendere 1400€ al mese, critico il fatto che si vedano fare quello tutta la vita, che la loro ambizione sia il posto fisso in fabbrica e che siano felici ( momentaneamente ) di questa vista.

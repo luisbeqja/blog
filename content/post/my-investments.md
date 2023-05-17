@@ -2,13 +2,12 @@
 timeToRead: 3
 authors: []
 title: "My investments \U0001F4B0"
-excerpt: "Finalmente quest'anno ho iniziato ad interessarmi alla finanza, ho solo
-  19 anni e ieri ho ricevuto il mio primo stipendio di 1000 miseri euro, non aspettatevi
-  grosse somme quindi, anzi. \U0001F972"
-date: 2021-12-30T23:00:00+00:00
-hero: "/blog/images/photo-1624996379697-f01d168b1a52.jpeg"
-
+excerpt: "Finalmente quest'anno ho iniziato ad interessarmi alla finanza, ho solo 19 anni e ieri ho ricevuto il mio primo stipendio di 1000 miseri euro, non aspettatevi grosse somme quindi, anzi. \U0001F972"
+date: 2021-12-30T23:00:00.000Z
+hero: /blog/images/photo-1624996379697-f01d168b1a52.jpeg
+_template: post
 ---
+
 > Finalmente quest'anno ho iniziato ad interessarmi alla finanza, ho solo 19 anni e ieri ho ricevuto il mio primo stipendio di 1000 miseri euro, non aspettatevi grosse somme quindi, anzi. 🥲
 
 Il capitale investito è molto piccolo si tratta di circa 1600€ suddivisi in un PAC e una percentuale in Crypto

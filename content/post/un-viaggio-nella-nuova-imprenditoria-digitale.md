@@ -1,15 +1,17 @@
 ---
 timeToRead: 2
 authors:
-- Luis Beqja
+  - Luis Beqja
 title: Un viaggio nella nuova imprenditoria digitale
-excerpt: 'Tra questi ultimi una persona in particolare è stata più educata e volenterosa
-  di intraprendere un dialogo: Mattia Massari.  Abbiamo fatto una chiacchierata insieme,
-  questo è quello che ne è emerso.'
-date: 2022-04-20T00:00:00+02:00
-hero: "/blog/images/hires-scaled.jpg"
-
+excerpt: >-
+  Tra questi ultimi una persona in particolare è stata più educata e volenterosa
+  di intraprendere un dialogo: Mattia Massari.  Abbiamo fatto una chiacchierata
+  insieme, questo è quello che ne è emerso.
+date: 2022-04-19T22:00:00.000Z
+hero: /blog/images/hires-scaled.jpg
+_template: post
 ---
+
 Poco tempo fa ho publicato un articolo, parlavo di Schema ponzi.
 
 I miei articoli sono spesso pungenti e strizzano l’occhio alla gente che mi conosce, la serie “intorno a me” nasce appunto da questa idea: parlare delle cose/persone che mi circondano.

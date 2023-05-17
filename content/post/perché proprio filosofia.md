@@ -1,16 +1,19 @@
 ---
 timeToRead: 3
 authors:
-- Beatrice Brega
-title: "...e poi? ...perché proprio filosofia?"
-excerpt: Dopo cinque anni di elementari, tre di medie e altri cinque di superiori,
-  uno studente italiano si ritrova a dover fare i conti con il proprio futuro.Una
-  parte dei ragazzi intraprende fin da subito la carriera lavorativa e l’altra parte
-  invece decide di proseguire il proprio percorso di studi all’università.
-date: 2022-02-09T22:00:00+01:00
-hero: "/blog/images/a-cosa-serve-la-filosofia-blog-facebook-1080x628.png"
-
+  - Beatrice Brega
+title: ...e poi? ...perché proprio filosofia?
+excerpt: >-
+  Dopo cinque anni di elementari, tre di medie e altri cinque di superiori, uno
+  studente italiano si ritrova a dover fare i conti con il proprio futuro.Una
+  parte dei ragazzi intraprende fin da subito la carriera lavorativa e l’altra
+  parte invece decide di proseguire il proprio percorso di studi
+  all’università.
+date: 2022-02-09T21:00:00.000Z
+hero: /blog/images/a-cosa-serve-la-filosofia-blog-facebook-1080x628.png
+_template: post
 ---
+
 Dopo cinque anni di elementari, tre di medie e altri cinque di superiori, uno studente italiano si ritrova a dover fare i conti con il proprio futuro.  
 Una parte dei ragazzi intraprende fin da subito la carriera lavorativa e l’altra parte invece decide di proseguire il proprio percorso di studi all’università.
 

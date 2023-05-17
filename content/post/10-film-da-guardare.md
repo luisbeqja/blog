@@ -1,17 +1,19 @@
 ---
 timeToRead: 2
 authors:
-- Luis Beqja
-- Mattia Botteri
+  - Luis Beqja
+  - Mattia Botteri
 title: top 10 film da guardare
-excerpt: Dopo una lunga attesta ritorno a scivere su questo blog, e non lo faccio
-  da solo ma lo faccio a 4 mani con la persona piu appassionata di cinema che io conosca,
-  il mio amico Botte :)  Ed è proprio di cinema che parliamo oggi, ecco la top 10
-  film da vedere assolutamente.
-date: 2022-10-02T04:00:00.000+02:00
-hero: "/blog/images/true-1200x675-6-16.jpg"
-
+excerpt: >-
+  Dopo una lunga attesta ritorno a scivere su questo blog, e non lo faccio da
+  solo ma lo faccio a 4 mani con la persona piu appassionata di cinema che io
+  conosca, il mio amico Botte :)  Ed è proprio di cinema che parliamo oggi, ecco
+  la top 10 film da vedere assolutamente.
+date: 2022-10-02T02:00:00.000Z
+hero: /blog/images/true-1200x675-6-16.jpg
+_template: post
 ---
+
 Dopo una lunga attesa ritorno a scrivere su questo blog, e non lo faccio da solo ma lo faccio a 4 mani con la persona piu appassionata di cinema che io conosca, il mio amico Botte :)
 
 Ed è proprio di cinema che parliamo oggi, ecco la top 10 film da vedere assolutamente.

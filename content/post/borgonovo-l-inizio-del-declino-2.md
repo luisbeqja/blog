@@ -1,16 +1,18 @@
 ---
 timeToRead: 3
 authors:
-- 'Borgonovese anonimo '
-- Luis Beqja
-title: Borgonovo, l’inizio del declino - 2
-excerpt: Incredibile ma vero...la popolazione Borgonovese dal 2002 al 2021 è cresciuta
-  grazie soltanto ai cittadini stranieri, e attenzione, non stiamo dicendo che la
-  crescita della polietricità di un paese sia una cosa negativa, anzi.
-date: 2022-02-28T09:00:00+01:00
-hero: "/blog/images/sloiw9wbux1u3j32mhxdisjqb107iwhlcplrbwrn.jpeg"
-
+  - 'Borgonovese anonimo '
+  - Luis Beqja
+title: 'Borgonovo, l’inizio del declino - 2'
+excerpt: >-
+  Incredibile ma vero...la popolazione Borgonovese dal 2002 al 2021 è cresciuta
+  grazie soltanto ai cittadini stranieri, e attenzione, non stiamo dicendo che
+  la crescita della polietricità di un paese sia una cosa negativa, anzi.
+date: 2022-02-28T08:00:00.000Z
+hero: /blog/images/sloiw9wbux1u3j32mhxdisjqb107iwhlcplrbwrn.jpeg
+_template: post
 ---
+
 #### **Concretamente quali sono i problemi che a Borgonovo continuano ad aumentare:**
 
 1. Sporcizia

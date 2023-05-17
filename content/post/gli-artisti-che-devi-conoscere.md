@@ -1,13 +1,14 @@
 ---
 timeToRead: 2
 authors:
-- Luis Beqja
+  - Luis Beqja
 title: Gli artisti che devi conoscere
-excerpt: Raccolta degli artisti che per me non puoi non conoscre, raccolta personale.
-date: 2022-03-15T02:00:00+01:00
-hero: "/blog/images/magritte.jpeg"
-
+excerpt: 'Raccolta degli artisti che per me non puoi non conoscre, raccolta personale.'
+date: 2022-03-15T01:00:00.000Z
+hero: /blog/images/magritte.jpeg
+_template: post
 ---
+
 ![](/images/emilio-villalba.jpg)
 
 Emilio Villalba [https://emiliovillalbaart.com/work](https://emiliovillalbaart.com/work "https://emiliovillalbaart.com/work")

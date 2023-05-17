@@ -1,17 +1,19 @@
 ---
 timeToRead: 2
 authors:
-- Luis Beqja
+  - Luis Beqja
 title: 'UNA GUERRA CHE CI MERITIAMO ? '
-excerpt: 'Non sono questi i punti che voglio affrontare oggi. Il punto di questo articolo
-  è:  Come abbiamo permesso che questi crimini continuassero a rimanere impuniti,
-  come abbiamo fatto a renderci così tanto dipendenti dal gas russo da non poterne
-  fare a meno,  COME ABBIAMO FATTO A SOSTENERE POLITICI CHE LODAVANO PUTIN COME GRANDE
-  UOMO E POLITO.'
-date: 2022-02-26T02:00:00+01:00
-hero: "/blog/images/screenshot-2022-02-26-at-03-48-36.png"
-
+excerpt: >-
+  Non sono questi i punti che voglio affrontare oggi. Il punto di questo
+  articolo è:  Come abbiamo permesso che questi crimini continuassero a rimanere
+  impuniti, come abbiamo fatto a renderci così tanto dipendenti dal gas russo da
+  non poterne fare a meno,  COME ABBIAMO FATTO A SOSTENERE POLITICI CHE LODAVANO
+  PUTIN COME GRANDE UOMO E POLITO.
+date: 2022-02-26T01:00:00.000Z
+hero: /blog/images/screenshot-2022-02-26-at-03-48-36.png
+_template: post
 ---
+
 15 aprile 2003 – il deputato liberale Sergei Yushenkov, 52 anni, è ucciso mentre tornava a casa
 
 9 luglio 2004 – il giornalista investigativo americano Paul Klebnikov, 41 anni, viene ucciso mentre lascia gli uffici Forbes

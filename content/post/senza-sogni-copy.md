@@ -1,15 +1,17 @@
 ---
 timeToRead: 1
 authors:
-- Luis Beqja
+  - Luis Beqja
 title: Cristiani = Complottisti
-excerpt: 'C’è questa idea diffusa che la religione andrebbe rispettata a prescindere.
-  La ritengo un’idea sbagliata e pericolosa. Io non rispetto la religione. Ritengo
-  la religione una sciagura per l’umanità. '
-date: 2022-02-02T00:00:00+01:00
-hero: "/blog/images/adrian-dascal-4baom7usuqy-unsplash.jpeg"
-
+excerpt: >-
+  C’è questa idea diffusa che la religione andrebbe rispettata a prescindere. La
+  ritengo un’idea sbagliata e pericolosa. Io non rispetto la religione. Ritengo
+  la religione una sciagura per l’umanità. 
+date: 2022-02-01T23:00:00.000Z
+hero: /blog/images/adrian-dascal-4baom7usuqy-unsplash.jpeg
+_template: post
 ---
+
 CRISTIANESIMO.
 
 Ho fatto un vecchio post sul cristianesimo...dove lo “elogiavo” come strumento culturale che STORICAMENTE ci ha permesso di creare una civiltà unita.Ho fatto un vecchio post sul cristianesimo...dove lo “elogiavo” come strumento culturale che STORICAMENTE ci ha permesso di creare una civiltà unita.Ho fatto un vecchio post sul cristianesimo...dove lo “elogiavo” come strumento culturale che STORICAMENTE ci ha permesso di creare una civiltà unita.

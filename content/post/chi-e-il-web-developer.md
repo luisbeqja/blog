@@ -1,18 +1,20 @@
 ---
 timeToRead: 2
 authors:
-- Luis Beqja
+  - Luis Beqja
 title: Chi é il web developer ?
-excerpt: il web developer é colui che pensa e crea tutto ciò che é all'interno di
-  Internet. I famosi SITI, ma cosa vuol dire siti, di primo acchito ci puo venire
-  in mente il classico portale vetrina del Negozietto sotto casa fatto in Wordpress
-  dal cugino "informatico", che in realtà non è sbagliato…ma non è solo quello, per
-  chiarire cosa altro può essere il web development vi parlo di 3 progetti a cui ho
-  lavorato.
-date: 2022-12-28T00:00:00+01:00
-hero: "/blog/images/how-to-become-a-web-developer-it.jpeg"
-
+excerpt: >-
+  il web developer é colui che pensa e crea tutto ciò che é all'interno di
+  Internet. I famosi SITI, ma cosa vuol dire siti, di primo acchito ci puo
+  venire in mente il classico portale vetrina del Negozietto sotto casa fatto in
+  Wordpress dal cugino "informatico", che in realtà non è sbagliato…ma non è
+  solo quello, per chiarire cosa altro può essere il web development vi parlo di
+  3 progetti a cui ho lavorato.
+date: 2022-12-27T23:00:00.000Z
+hero: /blog/images/how-to-become-a-web-developer-it.jpeg
+_template: post
 ---
+
 Appena passato il natale e io come tutti i programmatori del mondo ci siamo ritrovati a dover spiegare che lavoro facciamo ai nostri parenti…e come sempre l'unica risposta possibile è la solita "lavoro con il computer Nonna, creo le cose che usi con il telefono"
 
 _Ma é veramente così semplice ? Beh in realtà **NO**._

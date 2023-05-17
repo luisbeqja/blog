@@ -1,15 +1,17 @@
 ---
 timeToRead: 1
 authors:
-- Susanna Ferri
+  - Susanna Ferri
 title: Intorno a me - 1
-excerpt: Lo scrivo perché ho paura di dimenticarlo.  Quando misi il primo piede dentro
-  quella casa mi stupì subito quanto il parquet scricchiolasse ad ogni nostro passo,
-  erano i nostri corpi troppo pesanti o i nostri pensieri?
-date: 2022-01-03T00:00:00+01:00
-hero: "/blog/images/suanna.png"
-
+excerpt: >-
+  Lo scrivo perché ho paura di dimenticarlo.  Quando misi il primo piede dentro
+  quella casa mi stupì subito quanto il parquet scricchiolasse ad ogni nostro
+  passo, erano i nostri corpi troppo pesanti o i nostri pensieri?
+date: 2022-01-02T23:00:00.000Z
+hero: /blog/images/suanna.png
+_template: post
 ---
+
 **intorno a me è una rubrica che parla del mondo che mi circonda, delle persone che vedo e delle cose che sento**
 
 Testo di [**Susanna Ferri**](https://www.instagram.com/susanna.ferri/)

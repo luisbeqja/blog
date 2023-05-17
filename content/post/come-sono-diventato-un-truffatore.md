@@ -2,15 +2,17 @@
 timeToRead: 4
 authors: []
 title: "Come sono diventato un truffatore \U0001F48E"
-excerpt: L'orologio digitale di Windows batteva ormai le 3:00, la voglia di dormire
-  era lontana e la curiosita che attanaglia le mie giornate molta. Mi imbattei in
-  un video, uno dei tanti su “come ho smascherato il truffatore di Amazon” mi incuriosii,
-  lo apri. Parlava di una delle piu famose truffe moderne “abbiamo il tuo pacco in
-  dogana per sbloccarlo compila questo forum”
-date: 2022-01-31T23:00:00+00:00
-hero: "/blog/images/clint-patterson-dyeufb8kqjk-unsplash.jpeg"
-
+excerpt: >-
+  L'orologio digitale di Windows batteva ormai le 3:00, la voglia di dormire era
+  lontana e la curiosita che attanaglia le mie giornate molta. Mi imbattei in un
+  video, uno dei tanti su “come ho smascherato il truffatore di Amazon” mi
+  incuriosii, lo apri. Parlava di una delle piu famose truffe moderne “abbiamo
+  il tuo pacco in dogana per sbloccarlo compila questo forum”
+date: 2022-01-31T23:00:00.000Z
+hero: /blog/images/clint-patterson-dyeufb8kqjk-unsplash.jpeg
+_template: post
 ---
+
 # Atto 1 - L’idea
 
 Era la notte del 25 marzo 2019. Io, come al solito ero davanti al PC, un pò programmare e un pò a bazzicare su internet.

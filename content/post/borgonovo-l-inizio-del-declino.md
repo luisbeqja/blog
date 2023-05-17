@@ -1,14 +1,16 @@
 ---
 timeToRead: 3
 authors:
-- 'Borgonovese anonimo '
+  - 'Borgonovese anonimo '
 title: 'Borgonovo, l’inizio del declino '
-excerpt: In particolare vorremmo fare il punto della situazione su come un paese,
-  se trascurato, possa cambiare completamente volto, in poco più di 5 anni…
-date: 2022-02-21T09:00:00+01:00
-hero: "/blog/images/sloiw9wbux1u3j32mhxdisjqb107iwhlcplrbwrn.jpeg"
-
+excerpt: >-
+  In particolare vorremmo fare il punto della situazione su come un paese, se
+  trascurato, possa cambiare completamente volto, in poco più di 5 anni…
+date: 2022-02-21T08:00:00.000Z
+hero: /blog/images/sloiw9wbux1u3j32mhxdisjqb107iwhlcplrbwrn.jpeg
+_template: post
 ---
+
 **Parte 1:**
 
 Ed eccoci qua, come al solito, a fare i conti con tante belle parole e fatti quasi inesistenti.

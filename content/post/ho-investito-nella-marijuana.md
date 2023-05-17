@@ -1,14 +1,16 @@
 ---
 timeToRead: 3
 authors:
-- Luis Beqja
+  - Luis Beqja
 title: 'Ho investito nella marijuana ? '
-excerpt: E' il nome dell'ultima azienda su cui ho investito, lavora nel mercato della
+excerpt: >-
+  E' il nome dell'ultima azienda su cui ho investito, lavora nel mercato della
   canapa ( cannabis ).
-date: 2022-02-07T00:00:00+01:00
-hero: "/blog/images/dsc02731-1200x800.jpeg"
-
+date: 2022-02-06T23:00:00.000Z
+hero: /blog/images/dsc02731-1200x800.jpeg
+_template: post
 ---
+
 ## _innovative industrial properties_
 
 E' il nome dell'ultima azienda su cui ho investito, lavora nel mercato della canapa ( cannabis ).
